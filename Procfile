@@ -1,0 +1,1 @@
+sh target/classes/company/Bot
