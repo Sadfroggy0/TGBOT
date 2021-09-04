@@ -1,1 +1,1 @@
-sh target/classes/company/Bot
+worker: sh target/classes/company/Bot
