@@ -1,1 +1,1 @@
-worker: java -Dserver.port=$PORT -jar target/bin/TGBOT.jar
+worker: sh target/bin/TGBOT
