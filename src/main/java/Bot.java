@@ -1,5 +1,3 @@
-package com.company;
-
 import org.apache.log4j.BasicConfigurator;
 import org.telegram.telegrambots.bots.TelegramLongPollingBot;
 import org.telegram.telegrambots.meta.TelegramBotsApi;

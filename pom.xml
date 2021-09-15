@@ -49,7 +49,7 @@
                 <assembleDirectory>target</assembleDirectory>
                 <programs>
                     <program>
-                        <mainClass>com.company.Bot</mainClass>
+                        <mainClass>Bot</mainClass>
                         <name>TGBOT</name>
                     </program>
                 </programs>
