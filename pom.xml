@@ -61,7 +61,7 @@
                 <assembleDirectory>target</assembleDirectory>
                 <programs>
                     <program>
-                        <mainClass>Bot</mainClass>
+                        <mainClass>application.Bot</mainClass>
                         <name>TGBOT</name>
                     </program>
                 </programs>

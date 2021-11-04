@@ -1,3 +1,6 @@
+package application;
+
+import messageHandler.MessageHandler;
 import org.apache.log4j.BasicConfigurator;
 import org.telegram.telegrambots.bots.TelegramLongPollingBot;
 import org.telegram.telegrambots.meta.TelegramBotsApi;
@@ -33,8 +36,9 @@ public class Bot extends TelegramLongPollingBot {
     public void onUpdateReceived(Update update) {
         Long chatId = update.getMessage().getChatId();
         String inputText = update.getMessage().getText();
-        SndMes sndMes = new SndMes();
-        sndMes.sndmes(inputText,chatId);
+        MessageHandler messageHandler = new MessageHandler();
+        messageHandler.messageSender(inputText,chatId);
+
 
     }
 
