@@ -10,7 +10,6 @@ public class Bot extends TelegramLongPollingBot {
 
     public static void main(String[] args) {
         BasicConfigurator.configure();
-
         try {
             TelegramBotsApi  telegramBotsApi = new TelegramBotsApi(DefaultBotSession.class);
             telegramBotsApi.registerBot(new Bot());
@@ -36,37 +35,6 @@ public class Bot extends TelegramLongPollingBot {
         String inputText = update.getMessage().getText();
         SndMes sndMes = new SndMes();
         sndMes.sndmes(inputText,chatId);
-       /* SendMessage message = new SendMessage();
-        message.setChatId(chatId.toString());
-
-        switch (inputText){
-            case "/start":
-                message.setText("Hi, my name is bot");
-                break;
-            case "set1":
-                message.setText("yoooo");
-                break;
-        }
-        try {
-            execute(message);
-        }
-        catch (TelegramApiException e){
-            e.printStackTrace();
-        }
-
-       /* if (inputText.startsWith("/start")) {
-            SendMessage message = new SendMessage();
-            message.setChatId(chatId.toString());
-            message.setText("Hello. This is start message");
-            try {
-                execute(message);
-            } catch (TelegramApiException e) {
-                e.printStackTrace();
-            }
-        }*/
-
-
-
 
     }
 
