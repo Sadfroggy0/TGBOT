@@ -11,17 +11,6 @@ import org.telegram.telegrambots.updatesreceivers.DefaultBotSession;
 public class Bot extends TelegramLongPollingBot {
 
 
-    public static void main(String[] args) {
-        BasicConfigurator.configure();
-        try {
-            TelegramBotsApi  telegramBotsApi = new TelegramBotsApi(DefaultBotSession.class);
-            telegramBotsApi.registerBot(new Bot());
-        } catch (TelegramApiException e) {
-            e.printStackTrace();
-        }
-    }
-
-
     @Override
     public String getBotUsername() {
         return "FinancialHotNews_bot";
@@ -34,10 +23,12 @@ public class Bot extends TelegramLongPollingBot {
 
     @Override
     public void onUpdateReceived(Update update) {
-        Long chatId = update.getMessage().getChatId();
-        String inputText = update.getMessage().getText();
-        MessageHandler messageHandler = new MessageHandler();
-        messageHandler.messageSender(inputText,chatId);
+        if(update.hasMessage() && update.getMessage().hasText()){
+
+            MessageHandler messageHandler = new MessageHandler();
+            messageHandler.messageSender(update);
+        }
+
 
 
     }

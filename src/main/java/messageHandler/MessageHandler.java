@@ -1,14 +1,16 @@
 package messageHandler;
 
 import org.telegram.telegrambots.meta.api.methods.send.SendMessage;
+import org.telegram.telegrambots.meta.api.objects.Update;
 import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 import application.Bot;
 
 public class MessageHandler extends  Bot {
-    public  void messageSender(String input,Long chatid){
+    public  void messageSender(Update update){
+
         SendMessage message = new SendMessage();
-        message.setChatId(chatid.toString());
-        switch (input){
+        message.setChatId(update.getMessage().getChatId().toString());
+        switch (update.getMessage().getText()){
             case "/start":
                 message.setText("Hi, my name is Bot. Choose an option");
                 break;
