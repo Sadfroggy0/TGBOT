@@ -9,7 +9,7 @@ import rssParser.RssParser;
 
 public class MessageHandler extends  Bot {
     Update update;
-    public  void messageSender(Update update){
+    public  void messageSender(Update update) throws Exception {
 
         this.update = update;
         SendMessage message = new SendMessage();

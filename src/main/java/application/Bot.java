@@ -26,7 +26,11 @@ public class Bot extends TelegramLongPollingBot {
         if(update.hasMessage() && update.getMessage().hasText()){
 
             MessageHandler messageHandler = new MessageHandler();
-            messageHandler.messageSender(update);
+            try {
+                messageHandler.messageSender(update);
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
         }
 
 

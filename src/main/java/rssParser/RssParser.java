@@ -23,7 +23,7 @@ public class RssParser {
         return this.news;
     }
 
-    public static void main(String[] args) throws Exception{
+    public  RssParser ()throws Exception{
 
       /*  URL oracle = new URL(cnbcLink);
         BufferedReader in = new BufferedReader(
