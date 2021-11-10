@@ -25,7 +25,6 @@ public class MessageHandler extends  Bot {
 
                 StartKeyboard startKeyboard = new StartKeyboard(replyKeyboardMarkup);
                 message.setReplyMarkup(replyKeyboardMarkup);
-
                 break;
             case "set1":
                 message.setText("yoooo");
@@ -34,7 +33,7 @@ public class MessageHandler extends  Bot {
                 message.setText("U used set2");
                 break;
             default:
-                message.setText("No such a command");
+                message.setText("No such a command.\nUse  /start to see more options");
         }
         try {
             execute(message);
