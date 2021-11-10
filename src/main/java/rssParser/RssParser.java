@@ -17,8 +17,14 @@ import javax.xml.parsers.SAXParserFactory;
 
 public class RssParser {
     final static String cnbcLink = "https://www.cnbc.com/id/10001147/device/rss/rss.html";
+    private static String news;
+
+    public String getNews(){
+        return this.news;
+    }
 
     public static void main(String[] args) throws Exception{
+
       /*  URL oracle = new URL(cnbcLink);
         BufferedReader in = new BufferedReader(
                 new InputStreamReader(oracle.openStream()));
@@ -40,9 +46,18 @@ public class RssParser {
 
         SAXParserFactory factory = SAXParserFactory.newInstance();
         SAXParser parser = factory.newSAXParser();
-
         XMLHandler handler = new XMLHandler();
+
+        news="";
         parser.parse(new File("test.xml"), handler);
+        news+=handler.getPubDate()+"\n"+
+                handler.getTitle()+"\n"+
+                handler.getDescription()+"\n"+
+                handler.getLink()
+        ;
+
+
+
 
     }
 

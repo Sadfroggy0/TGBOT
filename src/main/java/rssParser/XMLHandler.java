@@ -8,6 +8,26 @@ import org.xml.sax.helpers.DefaultHandler;
 public class XMLHandler extends DefaultHandler {
     private String lastElementName, link, title,description, pubDate;
 
+    public String getLastElementName() {
+        return lastElementName;
+    }
+
+    public String getLink() {
+        return link;
+    }
+
+    public String getTitle() {
+        return title;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public String getPubDate() {
+        return pubDate;
+    }
+
     @Override
     public void startDocument() throws SAXException {
         super.startDocument();

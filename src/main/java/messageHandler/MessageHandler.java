@@ -5,6 +5,7 @@ import org.telegram.telegrambots.meta.api.objects.Update;
 import org.telegram.telegrambots.meta.api.objects.replykeyboard.ReplyKeyboardMarkup;
 import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 import application.Bot;
+import rssParser.RssParser;
 
 public class MessageHandler extends  Bot {
     Update update;
@@ -25,9 +26,11 @@ public class MessageHandler extends  Bot {
 
                 StartKeyboard startKeyboard = new StartKeyboard(replyKeyboardMarkup);
                 message.setReplyMarkup(replyKeyboardMarkup);
+
                 break;
-            case "set1":
-                message.setText("yoooo");
+            case "Первая кнопка":
+                RssParser rssParser = new RssParser();
+                message.setText(rssParser.getNews());
                 break;
             case "set2":
                 message.setText("U used set2");
