@@ -9,16 +9,20 @@ import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 import org.telegram.telegrambots.updatesreceivers.DefaultBotSession;
 
 public class Bot extends TelegramLongPollingBot {
+    private static final String BOT_NAME="FinancialHotNews_bot";
+    private static final String BOT_TOKEN= "1617955211:AAEYKfDO_SKhCRgBDtSLy_IldjI4IYh4VAA";
+
+
 
 
     @Override
     public String getBotUsername() {
-        return "FinancialHotNews_bot";
+        return BOT_NAME;
     }
 
     @Override
     public String getBotToken() {
-        return "1617955211:AAE_2xBla0hFn-94__LGEbq5DEVLnFxQaVc";
+        return BOT_TOKEN;
     }
 
     @Override

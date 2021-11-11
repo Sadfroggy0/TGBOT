@@ -5,28 +5,10 @@ import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
 
 
+
 public class XMLHandler extends DefaultHandler {
     private String lastElementName, link, title,description, pubDate;
 
-    public String getLastElementName() {
-        return lastElementName;
-    }
-
-    public String getLink() {
-        return link;
-    }
-
-    public String getTitle() {
-        return title;
-    }
-
-    public String getDescription() {
-        return description;
-    }
-
-    public String getPubDate() {
-        return pubDate;
-    }
 
     @Override
     public void startDocument() throws SAXException {
@@ -45,13 +27,12 @@ public class XMLHandler extends DefaultHandler {
 
     @Override
     public void endElement(String uri, String localName, String qName) throws SAXException {
-        if(link!=null && title!=null && description!=null){
-            System.out.println(pubDate);
-            System.out.println(title);
-            System.out.println(description);
-            System.out.println(link);
-            System.out.println();
-
+        if(link!=null && title!=null && description!=null&& pubDate!=null){
+            News.news.add(new News(pubDate, title, description,link));
+            pubDate = null;
+            title = null;
+            description = null;
+            link =null;
         }
     }
 
