@@ -6,7 +6,7 @@ import org.xml.sax.helpers.DefaultHandler;
 
 
 
-public class XMLHandler extends DefaultHandler {
+public class CNBCxmlHandler extends DefaultHandler {
     private String lastElementName, link, title,description, pubDate;
 
 

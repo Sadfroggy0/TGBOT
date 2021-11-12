@@ -6,7 +6,6 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardCopyOption;
-import java.util.ArrayList;
 
 import javax.xml.parsers.SAXParser;
 import javax.xml.parsers.SAXParserFactory;
@@ -15,7 +14,7 @@ public class RssParser {
 
 
 
-    public  RssParser ()throws Exception{
+    public  RssParser ()throws Exception {
       /*  URL oracle = new URL(cnbcLink);
         BufferedReader in = new BufferedReader(
                 new InputStreamReader(oracle.openStream()));
@@ -29,19 +28,21 @@ public class RssParser {
         }
         in.close();
         */
-        final URL website = new URL(News.cnbcLink);
-        final Path target = Paths.get("test.xml");
-        try (InputStream in = website.openStream()) {
-            Files.copy(in, target, StandardCopyOption.REPLACE_EXISTING);
+        URL website = null;
+        for (int i = 0; i < News.cnbcLinks.length; i++) {
+            website = new URL(News.cnbcLinks[i]);
+
+            final Path target = Paths.get("test.xml");
+            try (InputStream in = website.openStream()) {
+                Files.copy(in, target, StandardCopyOption.REPLACE_EXISTING);
+            }
+
+            SAXParserFactory factory = SAXParserFactory.newInstance();
+            SAXParser parser = factory.newSAXParser();
+            CNBCxmlHandler handler = new CNBCxmlHandler();
+            parser.parse(new File("test.xml"), handler);
+
         }
-
-        SAXParserFactory factory = SAXParserFactory.newInstance();
-        SAXParser parser = factory.newSAXParser();
-        XMLHandler handler = new XMLHandler();
-        parser.parse(new File("test.xml"), handler);
-
-
-
     }
 
 }

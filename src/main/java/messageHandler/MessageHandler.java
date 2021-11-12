@@ -11,7 +11,6 @@ import rssParser.RssParser;
 public class MessageHandler extends  Bot {
     Update update;
     public  void messageSender(Update update) throws Exception {
-
         this.update = update;
         SendMessage message = new SendMessage();
         message.setChatId(update.getMessage().getChatId().toString());
@@ -52,7 +51,7 @@ public class MessageHandler extends  Bot {
                 News.news.clear();
                 return;
 
-            case "set2":
+            case "Вторая кнопка":
                 message.setText("U used set2");
                 break;
             default:
