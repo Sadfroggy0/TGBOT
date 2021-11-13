@@ -10,7 +10,23 @@ public class News {
     public static String[] cnbcLinks = new String[]{cnbcBusinessLink, cnbcEarningsLink,cnbcFinanceLink};
     public static ArrayList<News> news = new ArrayList<>();
 
-    private String pubDate;
+    public void setPubDate(String pubDate) {
+        this.pubDate = pubDate;
+    }
+
+    public void setTitle(String title) {
+        this.title = title;
+    }
+
+    public void setDescription(String description) {
+        this.description = description;
+    }
+
+    public void setLink(String link) {
+        this.link = link;
+    }
+
+    private  String pubDate;
     private String title;
     private String description;
 

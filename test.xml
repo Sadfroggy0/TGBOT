@@ -10,10 +10,30 @@
       <subtype>section</subtype>
       <seo>https://www.cnbc.com/finance/</seo>
     </feed_asset>
-    <lastBuildDate>Fri, 12 Nov 2021 13:14 GMT</lastBuildDate>
-    <pubDate>Fri, 12 Nov 2021 13:14 GMT</pubDate>
+    <lastBuildDate>Fri, 12 Nov 2021 18:29 GMT</lastBuildDate>
+    <pubDate>Fri, 12 Nov 2021 18:29 GMT</pubDate>
     <link>https://www.cnbc.com/finance/</link>
     <description><![CDATA[Latest investing news and finance headlines straight from Wall Street.]]></description>
+    <item>
+      <link>https://www.cnbc.com/2021/11/12/great-resignation-unemployment-benefits-arent-available-if-you-quit.html</link>
+      <guid isPermaLink="false">106974939</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106974939</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Quit a job? You likely can&apos;t collect unemployment benefits</title>
+      <description><![CDATA[Americans are quitting their jobs in record numbers. They generally can't count on unemployment benefits as a financial buffer. ]]></description>
+      <pubDate>Fri, 12 Nov 2021 18:06:19 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2021/11/12/stocks-making-the-biggest-moves-midday-tesla-lordstown-motors-warby-parker-and-more.html</link>
+      <guid isPermaLink="false">106974903</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106974903</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Stocks making the biggest moves midday: Tesla, Lordstown Motors, Warby Parker and more</title>
+      <description><![CDATA[These are the stocks posting the largest moves in midday trading. ]]></description>
+      <pubDate>Fri, 12 Nov 2021 21:04:19 GMT</pubDate>
+    </item>
     <item>
       <link>https://www.cnbc.com/2021/11/12/stocks-making-the-biggest-moves-premarket-johnson-johnson-rivian-lordstown-and-more.html</link>
       <guid isPermaLink="false">106974730</guid>
@@ -293,26 +313,6 @@
       <title>Pay phones, dog parks and bags of silver: Clients ask advisors to invest in some wacky stuff</title>
       <description><![CDATA[Research shows managing clients' emotions boosts returns more than most other financial-advice services. Investors don't necessarily see it that way.]]></description>
       <pubDate>Mon, 08 Nov 2021 19:26:48 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2021/11/08/stocks-making-the-biggest-moves-midday-advanced-micro-devices-delta-air-lines-coty-and-more.html</link>
-      <guid isPermaLink="false">106972158</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106972158</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>Stocks making the biggest moves midday: Advanced Micro Devices, Delta Air Lines, Coty and more</title>
-      <description><![CDATA[These are the stocks posting the largest moves in midday trading. ]]></description>
-      <pubDate>Mon, 08 Nov 2021 21:09:21 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2021/11/08/fed-vice-chair-clarida-says-another-year-of-inflation-like-this-one-would-not-be-a-policy-success.html</link>
-      <guid isPermaLink="false">106972102</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106972102</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>Fed Vice Chair Clarida says another year of inflation like this one would not be &apos;a policy success&apos;</title>
-      <description><![CDATA[Fed Vice Chairman Richard Clarida conceded that inflation is running well above a level that the central bank considers desirable.]]></description>
-      <pubDate>Mon, 08 Nov 2021 17:13:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
