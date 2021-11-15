@@ -1,5 +1,6 @@
 package rssParser;
 
+import com.google.common.html.HtmlEscapers;
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
@@ -28,18 +29,28 @@ public class CNBCxmlHandler extends DefaultHandler {
     @Override
     public void endElement(String uri, String localName, String qName) throws SAXException {
         if(link!=null && title!=null && description!=null&& pubDate!=null){
-            News.news.add(new News(pubDate, title, description,link));
+           // News.news.add(new News(pubDate, title, description,link));
+
+            News article = new News();
+            article.setPubDate(pubDate);
+            article.setTitle(title);
+            article.setDescription(description);
+            article.setLink(link);
+            News.newsList.add(article);
+
             pubDate = null;
             title = null;
             description = null;
             link =null;
         }
+
     }
+
 
     @Override
     public void characters(char[] ch, int start, int length) throws SAXException {
-        String information = new String(ch, start, length);
-        information = information.replace("\n", "").trim();
+        String information = HtmlEscapers.htmlEscaper().escape(new String(ch, start, length));
+        information =information.replace("\n", "").trim();
 
         if (!information.isEmpty()) {
             if (lastElementName.equals("link"))

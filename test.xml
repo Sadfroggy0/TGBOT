@@ -10,10 +10,40 @@
       <subtype>section</subtype>
       <seo>https://www.cnbc.com/finance/</seo>
     </feed_asset>
-    <lastBuildDate>Fri, 12 Nov 2021 18:29 GMT</lastBuildDate>
-    <pubDate>Fri, 12 Nov 2021 18:29 GMT</pubDate>
+    <lastBuildDate>Mon, 15 Nov 2021 13:10 GMT</lastBuildDate>
+    <pubDate>Mon, 15 Nov 2021 13:10 GMT</pubDate>
     <link>https://www.cnbc.com/finance/</link>
     <description><![CDATA[Latest investing news and finance headlines straight from Wall Street.]]></description>
+    <item>
+      <link>https://www.cnbc.com/2021/11/15/stocks-making-the-biggest-moves-in-the-premarket-oatly-tesla-dollar-tree-and-more-.html</link>
+      <guid isPermaLink="false">106975406</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106975406</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Stocks making the biggest moves in the premarket: Oatly, Tesla, Dollar Tree and more </title>
+      <description><![CDATA[The stocks making the biggest moves in premarket trading include Oatly, Tesla, Dollar Tree, and more.]]></description>
+      <pubDate>Mon, 15 Nov 2021 12:49:01 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2021/11/14/stock-market-futures-open-to-close-news.html</link>
+      <guid isPermaLink="false">106974830</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106974830</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Dow and S&amp;P 500 are higher to start the week, Nasdaq Composite slips</title>
+      <description><![CDATA[Stocks are coming off a losing week after October's consumer price index saw its largest annual increase in more than three decades. ]]></description>
+      <pubDate>Mon, 15 Nov 2021 15:58:36 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2021/11/14/supply-chain-chaos-chip-shortage-could-go-through-2023-paul-meeks-.html</link>
+      <guid isPermaLink="false">106974443</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106974443</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Top tech investor Paul Meeks won’t put new money to work in Apple and other FAANG names, blames chip shortage that could extend through 2023 </title>
+      <description><![CDATA[Paul Meeks, who ran the world’s largest tech fund during the dot-com bubble, suggests Wall Street is underestimating supply chain backlogs.]]></description>
+      <pubDate>Sun, 14 Nov 2021 23:12:03 GMT</pubDate>
+    </item>
     <item>
       <link>https://www.cnbc.com/2021/11/12/great-resignation-unemployment-benefits-arent-available-if-you-quit.html</link>
       <guid isPermaLink="false">106974939</guid>
@@ -283,36 +313,6 @@
       <title>Market bull Tony Dwyer sees the record breakout running through year end </title>
       <description><![CDATA[Canaccord’s Tony Dwyer expects the major indexes to benefit from strong optimism and the Federal Reserve’s easy money policies. ]]></description>
       <pubDate>Tue, 09 Nov 2021 00:49:35 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2021/11/08/stock-us-futures-market-open-close-news.html</link>
-      <guid isPermaLink="false">106972377</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106972377</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>S&amp;P 500 dips from record, snaps 8-day win streak ahead of key inflation data</title>
-      <description><![CDATA[The S&P 500 closed lower Tuesday for the first time in nine sessions as investors took some profits after an October rally and awaited key inflation data ahead.]]></description>
-      <pubDate>Tue, 09 Nov 2021 21:17:06 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2021/11/08/stocks-making-the-biggest-moves-after-hours-robinhood-tripadvisor-paypal-more.html</link>
-      <guid isPermaLink="false">106972384</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106972384</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>Stocks making the biggest moves after hours: Robinhood, TripAdvisor, PayPal &amp; more</title>
-      <description><![CDATA[Check out the companies making headlines in after hours trading.]]></description>
-      <pubDate>Mon, 08 Nov 2021 21:59:26 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2021/11/08/pay-phones-and-bags-of-silver-investors-ask-advisors-for-wacky-stuff.html</link>
-      <guid isPermaLink="false">106972249</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106972249</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>Pay phones, dog parks and bags of silver: Clients ask advisors to invest in some wacky stuff</title>
-      <description><![CDATA[Research shows managing clients' emotions boosts returns more than most other financial-advice services. Investors don't necessarily see it that way.]]></description>
-      <pubDate>Mon, 08 Nov 2021 19:26:48 GMT</pubDate>
     </item>
   </channel>
 </rss>

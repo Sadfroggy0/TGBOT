@@ -8,60 +8,67 @@ import application.Bot;
 import rssParser.News;
 import rssParser.RssParser;
 
+
 public class MessageHandler extends  Bot {
-    Update update;
+
     public  void messageSender(Update update) throws Exception {
-        this.update = update;
         SendMessage message = new SendMessage();
         message.setChatId(update.getMessage().getChatId().toString());
 
         switch (update.getMessage().getText()){
-            case "/start":
-                message.setText("Hi, my name is Bot. Choose an option");
-
+            case "/start"://todo привести этот колхоз в нормальный вид
+                message.setText("Hi, my name is FinBot. Choose an option");
                 ReplyKeyboardMarkup replyKeyboardMarkup = new ReplyKeyboardMarkup();
                 replyKeyboardMarkup.setSelective(true);
                 replyKeyboardMarkup.setResizeKeyboard(true);
                 replyKeyboardMarkup.setOneTimeKeyboard(false);
-
-                StartKeyboard startKeyboard = new StartKeyboard(replyKeyboardMarkup);
+                new StartKeyboard(replyKeyboardMarkup);
                 message.setReplyMarkup(replyKeyboardMarkup);
+                execute(message);
 
                 break;
-            case "Первая кнопка":
-                RssParser rssParser = new RssParser();
-                //int k = RssParser.news.size();
+            case "Business":
+                newsOutput(message,0);
+                break;
 
-                for (int i = 1; i< News.news.size(); i++){
-                    String s="";
-                     s= News.news.get(i).getPubDate()+"\n"+
-                            News.news.get(i).getTitle()+"\n"+
-                            //RssParser.news.get(i).getDescription()+"\n"+
-                            News.news.get(i).getLink();
-                    message.setText(s);
-
-                    try {
-                        execute(message);
-                    }
-                    catch (TelegramApiException e){
-                        e.printStackTrace();
-                    }
-
-                }
-                News.news.clear();
-                return;
-
-            case "Вторая кнопка":
-                message.setText("U used set2");
+            case "Earnings":
+                newsOutput(message,1);
+                break;
+            case "Finance":
+               newsOutput(message, 2);
                 break;
             default:
                 message.setText("No such a command.\nUse  /start to see more options");
+                try {
+                    execute(message);
+                } catch (TelegramApiException e){
+                    e.printStackTrace(); }
         }
+
+    }
+    private void newsOutput(SendMessage mes, int index){
         try {
-            execute(message);
-        }
-        catch (TelegramApiException e){
+            new RssParser(News.cnbcLinks[index]);
+        } catch (Exception e) {
             e.printStackTrace();
         }
+        for (int i = 1; i< News.newsList.size(); i++){
+            //DBController.save(News.newsList.get(i));
+             mes.setText(News.newsList.get(i).getPubDate()+"\n"+
+                    News.newsList.get(i).getTitle()+"\n"+
+                    //RssParser.news.get(i).getDescription()+"\n"+
+                    News.newsList.get(i).getLink()
+             );
+
+            try {
+                execute(mes);
+            } catch (TelegramApiException e) {
+                e.printStackTrace();
+            }
+
+        }
+        News.newsList.clear();
+
     }
+
 }

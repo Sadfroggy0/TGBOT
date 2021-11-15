@@ -9,9 +9,9 @@ public class StartKeyboard {
         ArrayList<KeyboardRow> keyboard = new ArrayList<>();
         KeyboardRow keyboardFirstRow = new KeyboardRow();
         KeyboardRow keyboardSecondRow = new KeyboardRow();
-        keyboardFirstRow.add("Первая кнопка");
-        keyboardFirstRow.add("Вторая кнопка");
-        keyboardSecondRow.add("Третья кнопка");
+        keyboardFirstRow.add("Business");
+        keyboardFirstRow.add("Earnings");
+        keyboardSecondRow.add("Finance");
         keyboardSecondRow.add("Четвертая кнопка");
         keyboard.add(keyboardFirstRow);
         keyboard.add((keyboardSecondRow));
