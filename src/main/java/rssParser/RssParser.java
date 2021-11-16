@@ -26,7 +26,6 @@ public class RssParser {
             CNBCxmlHandler handler = new CNBCxmlHandler();
             parser.parse(new File("test.xml"), handler);
 
-
     }
 
 }

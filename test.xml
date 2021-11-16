@@ -1,318 +1,318 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:metadata="http://search.cnbc.com/rss/2.0/modules/siteContentMetadata" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <atom:link rel="self" type="application/rss+xml" href="https://www.cnbc.com/id/10000664/device/rss/rss.html"/>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.cnbc.com/id/15839135/device/rss/rss.html"/>
     <language>en-us</language>
     <ttl>60</ttl>
-    <title>Finance</title>
+    <title>Earnings</title>
     <feed_asset>
-      <id>10000664</id>
+      <id>15839135</id>
       <type>franchise</type>
       <subtype>section</subtype>
-      <seo>https://www.cnbc.com/finance/</seo>
+      <seo>https://www.cnbc.com/earnings/</seo>
     </feed_asset>
-    <lastBuildDate>Mon, 15 Nov 2021 13:10 GMT</lastBuildDate>
-    <pubDate>Mon, 15 Nov 2021 13:10 GMT</pubDate>
-    <link>https://www.cnbc.com/finance/</link>
-    <description><![CDATA[Latest investing news and finance headlines straight from Wall Street.]]></description>
+    <lastBuildDate>Tue, 16 Nov 2021 11:44 GMT</lastBuildDate>
+    <pubDate>Tue, 16 Nov 2021 11:44 GMT</pubDate>
+    <link>https://www.cnbc.com/earnings/</link>
+    <description><![CDATA[Corporate Company Earnings, Find Earnings Per Share and Earnings History Online]]></description>
     <item>
-      <link>https://www.cnbc.com/2021/11/15/stocks-making-the-biggest-moves-in-the-premarket-oatly-tesla-dollar-tree-and-more-.html</link>
-      <guid isPermaLink="false">106975406</guid>
+      <link>https://www.cnbc.com/2021/11/16/walmart-wmt-earnings-q3-2022.html</link>
+      <guid isPermaLink="false">106974365</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106975406</metadata:id>
+      <metadata:id>106974365</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Stocks making the biggest moves in the premarket: Oatly, Tesla, Dollar Tree and more </title>
-      <description><![CDATA[The stocks making the biggest moves in premarket trading include Oatly, Tesla, Dollar Tree, and more.]]></description>
-      <pubDate>Mon, 15 Nov 2021 12:49:01 GMT</pubDate>
+      <title>Walmart tops earnings estimates, wins back grocery shoppers as inflation heats up</title>
+      <description><![CDATA[Walmart raised its forecast for the year and said it's using its size to navigate through rising costs.]]></description>
+      <pubDate>Tue, 16 Nov 2021 12:15:37 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/14/stock-market-futures-open-to-close-news.html</link>
-      <guid isPermaLink="false">106974830</guid>
+      <link>https://www.cnbc.com/2021/11/16/home-depot-hd-q3-2021-earnings.html</link>
+      <guid isPermaLink="false">106975561</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106974830</metadata:id>
+      <metadata:id>106975561</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Dow and S&amp;P 500 are higher to start the week, Nasdaq Composite slips</title>
-      <description><![CDATA[Stocks are coming off a losing week after October's consumer price index saw its largest annual increase in more than three decades. ]]></description>
-      <pubDate>Mon, 15 Nov 2021 15:58:36 GMT</pubDate>
+      <title>Home Depot earnings top estimates fueled by 9.8% jump in sales as consumers fix up homes</title>
+      <description><![CDATA[Shares of Home Depot have climbed 39% this year, giving it a market value of $392 billion.]]></description>
+      <pubDate>Tue, 16 Nov 2021 12:20:57 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/14/supply-chain-chaos-chip-shortage-could-go-through-2023-paul-meeks-.html</link>
-      <guid isPermaLink="false">106974443</guid>
+      <link>https://www.cnbc.com/2021/11/15/shares-of-ev-start-up-lucid-jump-on-new-reservations-2022-production.html</link>
+      <guid isPermaLink="false">106975703</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106974443</metadata:id>
+      <metadata:id>106975703</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Top tech investor Paul Meeks won’t put new money to work in Apple and other FAANG names, blames chip shortage that could extend through 2023 </title>
-      <description><![CDATA[Paul Meeks, who ran the world’s largest tech fund during the dot-com bubble, suggests Wall Street is underestimating supply chain backlogs.]]></description>
-      <pubDate>Sun, 14 Nov 2021 23:12:03 GMT</pubDate>
+      <title>Shares of EV start-up Lucid rise after executives confirm new reservations, 2022 vehicle production</title>
+      <description><![CDATA[The company on Monday said it has more than 17,000 reservations for its Air sedan, up from 13,000 through the third quarter.]]></description>
+      <pubDate>Tue, 16 Nov 2021 01:59:13 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/12/great-resignation-unemployment-benefits-arent-available-if-you-quit.html</link>
-      <guid isPermaLink="false">106974939</guid>
+      <link>https://www.cnbc.com/2021/11/15/wework-we-reports-q3-2021-earnings.html</link>
+      <guid isPermaLink="false">106975397</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106974939</metadata:id>
+      <metadata:id>106975397</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Quit a job? You likely can&apos;t collect unemployment benefits</title>
-      <description><![CDATA[Americans are quitting their jobs in record numbers. They generally can't count on unemployment benefits as a financial buffer. ]]></description>
-      <pubDate>Fri, 12 Nov 2021 18:06:19 GMT</pubDate>
+      <title>WeWork shows more losses in its first quarterly report as a public company</title>
+      <description><![CDATA[WeWork said total revenue for the quarter was $661 million, up 11% from the previous quarter.]]></description>
+      <pubDate>Mon, 15 Nov 2021 21:58:33 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/12/stocks-making-the-biggest-moves-midday-tesla-lordstown-motors-warby-parker-and-more.html</link>
-      <guid isPermaLink="false">106974903</guid>
+      <link>https://www.cnbc.com/2021/11/12/warby-parker-wrby-reports-q3-2021-earnings.html</link>
+      <guid isPermaLink="false">106974062</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106974903</metadata:id>
+      <metadata:id>106974062</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Stocks making the biggest moves midday: Tesla, Lordstown Motors, Warby Parker and more</title>
-      <description><![CDATA[These are the stocks posting the largest moves in midday trading. ]]></description>
-      <pubDate>Fri, 12 Nov 2021 21:04:19 GMT</pubDate>
+      <title>Warby Parker sales rise 32% as eyeglass retailer&apos;s losses widen in third quarter</title>
+      <description><![CDATA[Warby Parker reported Friday that its third-quarter revenue rose 32% from year-ago levels, but its losses widened. ]]></description>
+      <pubDate>Fri, 12 Nov 2021 22:50:52 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/12/stocks-making-the-biggest-moves-premarket-johnson-johnson-rivian-lordstown-and-more.html</link>
-      <guid isPermaLink="false">106974730</guid>
+      <link>https://www.cnbc.com/2021/11/11/lordstown-motors-delays-ev-pickup-production-due-to-supplier-issues.html</link>
+      <guid isPermaLink="false">106974433</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106974730</metadata:id>
+      <metadata:id>106974433</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Stocks making the biggest moves premarket: Johnson &amp; Johnson, Rivian, Lordstown and more</title>
-      <description><![CDATA[These are the stocks posting the largest moves before the bell.]]></description>
-      <pubDate>Fri, 12 Nov 2021 12:53:24 GMT</pubDate>
+      <title>Lordstown Motors delays Endurance EV pickup production due to supplier issues, shares fall</title>
+      <description><![CDATA[Commercial production and deliveries of Lordstown Motors' all-electric pickup called the Endurance is once again being pushed back, the company said Thursday.]]></description>
+      <pubDate>Thu, 11 Nov 2021 22:26:55 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/12/china-criticizes-us-democracy-while-promoting-xis-growing-power.html</link>
-      <guid isPermaLink="false">106974612</guid>
+      <link>https://www.cnbc.com/2021/11/11/tapestry-shares-rise-on-upbeat-outlook-abating-supply-chain-fears.html</link>
+      <guid isPermaLink="false">106974254</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106974612</metadata:id>
+      <metadata:id>106974254</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>China slams U.S. democracy as a &apos;game of the rich,&apos; at an event promoting Xi&apos;s growing power</title>
-      <description><![CDATA[The remarks come as Chinese President Xi Jinping became the third leader to oversee the politically significant approval of a "historical resolution" this week.]]></description>
-      <pubDate>Fri, 12 Nov 2021 11:02:21 GMT</pubDate>
+      <title>Coach owner Tapestry shares rise on upbeat outlook and abating supply chain fears</title>
+      <description><![CDATA[Coach owner Tapestry shares rose after the high-end handbag owner hiked its revenue forecast for the year. ]]></description>
+      <pubDate>Thu, 11 Nov 2021 17:50:33 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/12/central-bank-digital-currencies-are-moving-slowly-but-not-in-china.html</link>
-      <guid isPermaLink="false">106974142</guid>
+      <link>https://www.cnbc.com/2021/11/10/opendoor-q3-earnings-beat-estimates.html</link>
+      <guid isPermaLink="false">106973833</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106974142</metadata:id>
+      <metadata:id>106973833</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Central bank digital currencies are a long way from becoming reality — unless you’re in China</title>
-      <description><![CDATA[Rising interest in cryptocurrencies has reignited central banks' digital currency ambitions. But so far, most CBDC projects are moving at a sluggish pace.]]></description>
-      <pubDate>Fri, 12 Nov 2021 06:30:10 GMT</pubDate>
+      <title>Opendoor thrives in home-flipping market Zillow just exited as earnings beat estimates</title>
+      <description><![CDATA[Opendoor shares surged in after-market trading on Wednesday as third-quarter results exceeded analysts' estimates. ]]></description>
+      <pubDate>Thu, 11 Nov 2021 01:32:56 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/11/the-4percent-rule-a-popular-retirement-income-strategy-may-be-outdated.html</link>
-      <guid isPermaLink="false">106974354</guid>
+      <link>https://www.cnbc.com/2021/11/10/affirm-shares-soar-after-announcing-expanded-deal-with-amazon.html</link>
+      <guid isPermaLink="false">106973734</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106974354</metadata:id>
+      <metadata:id>106973734</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Experts say the 4% rule, a popular retirement income strategy, is outdated</title>
-      <description><![CDATA[Average stock and bond returns aren't expected to be as robust in coming decades, and retirees may have to reduce withdrawals from their nest eggs.]]></description>
-      <pubDate>Thu, 11 Nov 2021 21:04:11 GMT</pubDate>
+      <title>Affirm shares soar after company announces expanded deal with Amazon, fiscal Q1 revenues beat estimates</title>
+      <description><![CDATA[Affirm shares soared in after-hours trading Wednesday, after the company announced it would expand its Amazon deal and that it beat on fiscal Q1 revenue.]]></description>
+      <pubDate>Thu, 11 Nov 2021 13:18:13 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/11/stocks-making-the-biggest-moves-premarket-rivian-beyond-meat-disney-and-more.html</link>
-      <guid isPermaLink="false">106974013</guid>
+      <link>https://www.cnbc.com/2021/11/10/disney-dis-fiscal-q4-2021-earnings.html</link>
+      <guid isPermaLink="false">106972170</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106974013</metadata:id>
+      <metadata:id>106972170</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Stocks making the biggest moves premarket: Rivian, Beyond Meat, Disney and more</title>
-      <description><![CDATA[These are the stocks posting the largest moves before the bell.]]></description>
-      <pubDate>Thu, 11 Nov 2021 16:20:38 GMT</pubDate>
+      <title>Disney earnings miss across the board with slowing streaming growth</title>
+      <description><![CDATA[Disney reported earnings after the bell. Here are the results.]]></description>
+      <pubDate>Wed, 10 Nov 2021 23:24:42 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/10/major-wall-street-firm-looks-to-buy-even-more-stocks-.html</link>
-      <guid isPermaLink="false">106973692</guid>
+      <link>https://www.cnbc.com/2021/11/10/beyond-meat-bynd-q3-2021-earnings.html</link>
+      <guid isPermaLink="false">106973637</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106973692</metadata:id>
+      <metadata:id>106973637</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Major Wall Street firm has one of its largest equity overweights ever - and is looking to buy even more stocks</title>
-      <description><![CDATA[Wilmington Trust's Meghan Shue explains why her firm has been piling into stocks and what she would buy on weakness.]]></description>
-      <pubDate>Thu, 11 Nov 2021 01:17:47 GMT</pubDate>
+      <title>Beyond Meat shares crater as losses mount, company expects weak U.S. sales growth ahead</title>
+      <description><![CDATA[Beyond Meat reported a wider-than-expected loss for its fourth quarter and revenue that fell short of analysts' estimates.]]></description>
+      <pubDate>Thu, 11 Nov 2021 13:10:35 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/10/stock-market-futures-open-to-close-news.html</link>
-      <guid isPermaLink="false">106973407</guid>
+      <link>https://www.cnbc.com/2021/11/09/coinbase-coin-earnings-q3-2021.html</link>
+      <guid isPermaLink="false">106972660</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106973407</metadata:id>
+      <metadata:id>106972660</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Nasdaq rebounds after inflation-driven sell-off, Disney weighs on the Dow</title>
-      <description><![CDATA[The Nasdaq Composite rebounded Thursday after hot inflation data and surging bond yields sparked a sell-off in technology stocks in the previous session.]]></description>
-      <pubDate>Thu, 11 Nov 2021 21:18:56 GMT</pubDate>
+      <title>Coinbase shares drop after third-quarter revenue misses analysts&apos; estimates</title>
+      <description><![CDATA[Coinbase reported weaker-than-expected revenue figures in the third quarter and a drop in monthly active users from the prior period.]]></description>
+      <pubDate>Tue, 09 Nov 2021 23:23:45 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/10/stocks-making-the-biggest-moves-after-hours-disney-beyond-meat-affirm-holdings-and-more.html</link>
-      <guid isPermaLink="false">106973723</guid>
+      <link>https://www.cnbc.com/2021/11/09/doordash-dash-q3-2021-earnings.html</link>
+      <guid isPermaLink="false">106973009</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106973723</metadata:id>
+      <metadata:id>106973009</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Stocks making the biggest moves after hours: Disney, Beyond Meat, Affirm Holdings and more</title>
-      <description><![CDATA[See which stocks are posting big moves after the bell on Wednesday. ]]></description>
-      <pubDate>Wed, 10 Nov 2021 22:03:10 GMT</pubDate>
+      <title>DoorDash stock rockets on deal to acquire international delivery platform Wolt for $8.1 billion</title>
+      <description><![CDATA[Wolt currently has about 4,000 employees and operates in 23 countries.]]></description>
+      <pubDate>Tue, 09 Nov 2021 22:39:22 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/10/stocks-making-the-biggest-moves-midday-mastercard-unity-software-wendys-and-more.html</link>
-      <guid isPermaLink="false">106973411</guid>
+      <link>https://www.cnbc.com/2021/11/08/paypal-pypl-earnings-q3-2021.html</link>
+      <guid isPermaLink="false">106972335</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106973411</metadata:id>
+      <metadata:id>106972335</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Stocks making the biggest moves midday: Mastercard, Unity Software, Wendy&apos;s and more</title>
-      <description><![CDATA[These are the stocks posting the largest moves in midday trading. ]]></description>
-      <pubDate>Wed, 10 Nov 2021 21:05:27 GMT</pubDate>
+      <title>PayPal issues disappointing revenue forecast for next year; announces Venmo deal with Amazon</title>
+      <description><![CDATA[PayPal on Monday reported third-quarter earnings that were weaker than analysts expected even and issued a disappointing forecast.]]></description>
+      <pubDate>Mon, 08 Nov 2021 23:56:43 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/10/mckinsey-partner-charged-with-insider-trading-tied-to-goldman-sachs-acquisition-of-greensky.html</link>
-      <guid isPermaLink="false">106973392</guid>
+      <link>https://www.cnbc.com/2021/11/08/roblox-rblx-earnings-q3-2021.html</link>
+      <guid isPermaLink="false">106972386</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106973392</metadata:id>
+      <metadata:id>106972386</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>McKinsey partner is charged with insider trading tied to Goldman Sachs&apos; acquisition of GreenSky</title>
-      <description><![CDATA[A federal complaint unsealed Wednesday charges McKinsey partner Puneet Dikshit with insider trading in his client Goldman Sachs' acquisition of GreenSky.]]></description>
-      <pubDate>Thu, 11 Nov 2021 15:25:52 GMT</pubDate>
+      <title>Roblox soars as it reports that revenue doubled in third quarter</title>
+      <description><![CDATA[Roblox said user growth for its video game continued in the third quarter, with the company. now averaging 47 million each day.]]></description>
+      <pubDate>Mon, 08 Nov 2021 22:48:35 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/10/stocks-making-the-biggest-moves-premarket-coinbase-doordash-poshmark-and-more.html</link>
-      <guid isPermaLink="false">106973258</guid>
+      <link>https://www.cnbc.com/2021/11/08/amc-entertainment-amc-q3-2021-earnings.html</link>
+      <guid isPermaLink="false">106972274</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106973258</metadata:id>
+      <metadata:id>106972274</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Stocks making the biggest moves premarket: Coinbase, DoorDash, Poshmark and more</title>
-      <description><![CDATA[See which stocks are posting big moves before the bell.]]></description>
-      <pubDate>Wed, 10 Nov 2021 12:29:49 GMT</pubDate>
+      <title>AMC posts narrower-than-expected loss, but CEO says there are still pandemic challenges ahead</title>
+      <description><![CDATA[AMC Entertainment shares fell more than 5% in extended trading Monday even though its third-quarter loss was narrower than expected.]]></description>
+      <pubDate>Tue, 09 Nov 2021 00:01:55 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/10/uk-buy-now-pay-later-start-up-zilch-raises-funds-for-us-expansion.html</link>
-      <guid isPermaLink="false">106971960</guid>
+      <link>https://www.cnbc.com/2021/11/06/berkshire-hathaway-brk-earnings-q3-2021.html</link>
+      <guid isPermaLink="false">106971776</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106971960</metadata:id>
+      <metadata:id>106971776</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>UK buy now, pay later start-up quadruples valuation to $2 billion, plans U.S. expansion</title>
-      <description><![CDATA[British start-up Zilch is riding the "buy now, pay later" wave to America.]]></description>
-      <pubDate>Wed, 10 Nov 2021 08:00:01 GMT</pubDate>
+      <title>Berkshire&apos;s operating earnings pop 18% last quarter with Buffett&apos;s cash pile at record $149 billion</title>
+      <description><![CDATA[The conglomerate reported operating income $6.47 billion in the third quarter, rising 18% from $5.48 billion from the same quarter a year ago.]]></description>
+      <pubDate>Mon, 08 Nov 2021 14:33:10 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/10/jpmorgan-turns-bullish-on-uk-stocks-for-first-time-since-brexit-vote.html</link>
-      <guid isPermaLink="false">106972699</guid>
+      <link>https://www.cnbc.com/2021/11/04/peloton-pton-to-report-fiscal-q1-2022-earnings-.html</link>
+      <guid isPermaLink="false">106969565</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106972699</metadata:id>
+      <metadata:id>106969565</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>JPMorgan turns bullish on UK stocks for the first time since the Brexit vote</title>
-      <description><![CDATA[JPMorgan on Monday upgraded U.K. stocks to "overweight," ending years of caution on British equity markets.]]></description>
-      <pubDate>Wed, 10 Nov 2021 06:11:28 GMT</pubDate>
+      <title>Peloton shares fall 25% as company posts wider-than-expected loss and slashes full-year outlook</title>
+      <description><![CDATA[The company slashed its outlook for the full year amid softened demand for its exercise equipment and ongoing supply chain challenges.]]></description>
+      <pubDate>Thu, 04 Nov 2021 23:59:07 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/10/biden-meeting-looms-chinas-xi-ready-to-work-conditionally-with-us.html</link>
-      <guid isPermaLink="false">106973124</guid>
+      <link>https://www.cnbc.com/2021/11/04/uber-earnings-q3-2021.html</link>
+      <guid isPermaLink="false">106970135</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106973124</metadata:id>
+      <metadata:id>106970135</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Xi says China is ready to work with U.S. on condition of &apos;mutual respect&apos;</title>
-      <description><![CDATA[Chinese President Xi Jinping sent a letter to a U.S. political advisory group ahead of a widely expected virtual meeting with U.S. President Joe Biden.]]></description>
-      <pubDate>Wed, 10 Nov 2021 05:20:10 GMT</pubDate>
+      <title>Uber revenue up 72% from last year, but Didi stake contributes to big loss</title>
+      <description><![CDATA[Uber reported third-quarter financial results Thursday that included a first-ever adjusted EBITDA profit.]]></description>
+      <pubDate>Fri, 05 Nov 2021 00:02:52 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/09/stock-market-futures-open-to-close-news.html</link>
-      <guid isPermaLink="false">106973012</guid>
+      <link>https://www.cnbc.com/2021/11/04/airbnb-abnbearnings-q3-2021.html</link>
+      <guid isPermaLink="false">106970790</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106973012</metadata:id>
+      <metadata:id>106970790</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Dow drops 240 points, Nasdaq falls 1.7% after hot inflation data drives bond yield spike</title>
-      <description><![CDATA[Stocks retreated Wednesday after October's consumer price reading showing the biggest annual jump in more than 30 years.]]></description>
-      <pubDate>Wed, 10 Nov 2021 23:40:00 GMT</pubDate>
+      <title>Airbnb profits surge 280% in third quarter</title>
+      <description><![CDATA[The company saw its highest-ever revenue and net income in the third quarter.]]></description>
+      <pubDate>Thu, 04 Nov 2021 23:57:28 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/09/stocks-making-the-biggest-moves-after-hours-coinbase-poshmark-doordash-and-more.html</link>
-      <guid isPermaLink="false">106973002</guid>
+      <link>https://www.cnbc.com/2021/11/04/pinterest-pins-earnings-q3-2021.html</link>
+      <guid isPermaLink="false">106970848</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106973002</metadata:id>
+      <metadata:id>106970848</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Stocks making the biggest moves after hours: Coinbase, Poshmark, DoorDash and more</title>
-      <description><![CDATA[These are the stocks posting the largest moves in after hours trading. ]]></description>
-      <pubDate>Tue, 09 Nov 2021 21:55:08 GMT</pubDate>
+      <title>Pinterest beats on earnings and revenue even as monthly user number drops</title>
+      <description><![CDATA[Pinterest on Thursday released its third-quarter earnings, which showed better-than-expected profit and revenue.]]></description>
+      <pubDate>Thu, 04 Nov 2021 21:36:26 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/09/thousands-of-americans-living-abroad-got-stimulus-checks-heres-why.html</link>
-      <guid isPermaLink="false">106972907</guid>
+      <link>https://www.cnbc.com/2021/11/04/sunrun-run-q3-2021-earnings.html</link>
+      <guid isPermaLink="false">106970810</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106972907</metadata:id>
+      <metadata:id>106970810</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Thousands of Americans living abroad got stimulus checks. Here’s why</title>
-      <description><![CDATA[The IRS issued $5.5 billion of stimulus payments outside the 50 states and Washington, D.C. Tax policy experts say there's good reason for doing so. ]]></description>
-      <pubDate>Tue, 09 Nov 2021 20:32:01 GMT</pubDate>
+      <title>Sunrun revenue doubles as customer count tops 600,000</title>
+      <description><![CDATA[The residential solar installer added 30,698 customers during the third quarter, bringing its total customer count to 630,441. ]]></description>
+      <pubDate>Thu, 04 Nov 2021 20:46:40 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/09/ousted-wework-ceo-adam-neumann-47-billion-valuation-went-to-his-head.html</link>
-      <guid isPermaLink="false">106972793</guid>
+      <link>https://www.cnbc.com/2021/11/04/first-solar-fslr-q3-2021-earnings.html</link>
+      <guid isPermaLink="false">106970852</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106972793</metadata:id>
+      <metadata:id>106970852</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Ousted WeWork CEO says $47 billion valuation went to his head before botched IPO</title>
-      <description><![CDATA[Adam Neumann gave his first interview since WeWork's failed IPO two years ago.]]></description>
-      <pubDate>Tue, 09 Nov 2021 18:09:57 GMT</pubDate>
+      <title>First Solar&apos;s sales decline amid ongoing supply chain bottlenecks</title>
+      <description><![CDATA[Shares of First Solar slid in extended trading after the company's third-quarter revenue missed expectations. ]]></description>
+      <pubDate>Thu, 04 Nov 2021 21:55:42 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/09/stocks-making-the-biggest-moves-midday-general-electric-paypal-roblox-and-more.html</link>
-      <guid isPermaLink="false">106972781</guid>
+      <link>https://www.cnbc.com/2021/11/04/covid-vaccine-moderna-mrna-earnings-q3-2021.html</link>
+      <guid isPermaLink="false">106970582</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106972781</metadata:id>
+      <metadata:id>106970582</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Stocks making the biggest moves midday: General Electric, PayPal, Roblox and more</title>
-      <description><![CDATA[These are the stocks posting the largest moves in midday trading. ]]></description>
-      <pubDate>Tue, 09 Nov 2021 21:02:34 GMT</pubDate>
+      <title>Moderna shares fall after company cuts 2021 forecast for Covid vaccine sales </title>
+      <description><![CDATA[Moderna shares fell Thursday after it cut its Covid-19 vaccine sales forecast for the year and missed earnings and revenue expectations for the third quarter.]]></description>
+      <pubDate>Thu, 04 Nov 2021 18:46:54 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/09/london-stock-exchange-aims-to-bring-firms-carbon-claims-out-into-daylight.html</link>
-      <guid isPermaLink="false">106972698</guid>
+      <link>https://www.cnbc.com/2021/11/04/credit-suisse-earnings-q3-2021.html</link>
+      <guid isPermaLink="false">106969976</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106972698</metadata:id>
+      <metadata:id>106969976</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>London Stock Exchange aims to bring firms&apos; carbon claims &apos;out into daylight&apos;</title>
-      <description><![CDATA[CEO Julia Hoggett said the LSE is aiming to make carbon markets more visible.]]></description>
-      <pubDate>Tue, 09 Nov 2021 14:45:15 GMT</pubDate>
+      <title>Credit Suisse scales back investment banking as earnings beat estimates</title>
+      <description><![CDATA[The Swiss bank also revealed that it expects to report a net loss in the fourth quarter and said it plans to scale back its investment banking operations. ]]></description>
+      <pubDate>Thu, 04 Nov 2021 11:14:16 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/09/ripple-launches-enterprise-crypto-feature-amid-legal-battle-with-sec.html</link>
-      <guid isPermaLink="false">106972598</guid>
+      <link>https://www.cnbc.com/2021/11/03/roku-q3-2021-earnings.html</link>
+      <guid isPermaLink="false">106970357</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106972598</metadata:id>
+      <metadata:id>106970357</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Ripple to launch crypto service for financial companies amid legal battle with the SEC</title>
-      <description><![CDATA[Ripple is set to launch a product called Liquidity Hub that allows financial services firms to offer their customers access to cryptocurrencies.]]></description>
-      <pubDate>Tue, 09 Nov 2021 23:59:08 GMT</pubDate>
+      <title>Roku shares drop after streaming company misses revenue estimates</title>
+      <description><![CDATA[Roku shares dropped in after-hours trading Wednesday after the company reported a third-quarter revenue that missed expectations.]]></description>
+      <pubDate>Wed, 03 Nov 2021 21:59:08 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/09/child-tax-credit-scams-still-trapping-the-unwary.html</link>
-      <guid isPermaLink="false">106972347</guid>
+      <link>https://www.cnbc.com/2021/11/03/qualcomm-qcom-earnings-q4-2021.html</link>
+      <guid isPermaLink="false">106969673</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106972347</metadata:id>
+      <metadata:id>106969673</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Child tax credit scams still trapping the unwary</title>
-      <description><![CDATA[The IRS is issuing monthly payments of the enhanced child tax credit through 2021. Scammers are posing as government agents to steal money and personal data.]]></description>
-      <pubDate>Tue, 09 Nov 2021 13:00:01 GMT</pubDate>
+      <title>Qualcomm shares pop after company reports earnings beat, 56% rise in smartphone chip sales</title>
+      <description><![CDATA[Qualcomm's revenue beat Wall Street expectations, driven by chip sales for smartphones, which were up 56% despite a global chip shortage.]]></description>
+      <pubDate>Thu, 04 Nov 2021 01:41:32 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/09/stocks-making-the-biggest-moves-premarket-ge-palantir-paypal-and-more-.html</link>
-      <guid isPermaLink="false">106972624</guid>
+      <link>https://www.cnbc.com/2021/11/03/sunpower-spwr-q3-2021-earnings.html</link>
+      <guid isPermaLink="false">106969917</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106972624</metadata:id>
+      <metadata:id>106969917</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Stocks making the biggest moves premarket: GE, Palantir, PayPal and more </title>
-      <description><![CDATA[Here are the companies making headlines before the bell on Tuesday.]]></description>
-      <pubDate>Tue, 09 Nov 2021 12:51:16 GMT</pubDate>
+      <title>SunPower CEO says company is going on &apos;offense&apos; as demand for solar rises</title>
+      <description><![CDATA[Solar company SunPower's third-quarter revenue disappointed the Street.]]></description>
+      <pubDate>Wed, 03 Nov 2021 22:47:37 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/09/china-property-market-may-see-more-pain-though-evergrande-crisis-may-ease.html</link>
-      <guid isPermaLink="false">106971186</guid>
+      <link>https://www.cnbc.com/2021/11/03/cvs-health-cvs-earnings-q3-2021.html</link>
+      <guid isPermaLink="false">106969490</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106971186</metadata:id>
+      <metadata:id>106969490</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>China&apos;s property market could see more pain, even as Evergrande crisis seems to be abating</title>
-      <description><![CDATA[Worries about Chinese real estate developers' high debt levels rattled investors despite signs Evergrande was making progress on resolving its problems.]]></description>
-      <pubDate>Thu, 11 Nov 2021 02:43:54 GMT</pubDate>
+      <title>CVS Health beats on earnings, gets lift from Covid vaccines and prescription volumes</title>
+      <description><![CDATA[The drugstore chain has gotten a boost from Covid-19 vaccines and the return of more typical pharmacy patterns.]]></description>
+      <pubDate>Wed, 03 Nov 2021 20:49:08 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/08/record-market-breakout-to-run-through-december-tony-dwyer.html</link>
-      <guid isPermaLink="false">106972417</guid>
+      <link>https://www.cnbc.com/2021/11/02/freshworks-stock-sinks-after-issuing-first-quarterly-report-since-ipo.html</link>
+      <guid isPermaLink="false">106969606</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106972417</metadata:id>
+      <metadata:id>106969606</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Market bull Tony Dwyer sees the record breakout running through year end </title>
-      <description><![CDATA[Canaccord’s Tony Dwyer expects the major indexes to benefit from strong optimism and the Federal Reserve’s easy money policies. ]]></description>
-      <pubDate>Tue, 09 Nov 2021 00:49:35 GMT</pubDate>
+      <title>Freshworks sinks after software maker&apos;s first quarterly earnings report since IPO</title>
+      <description><![CDATA[Freshworks contends with enterprise-software heavyweights such as Oracle and Salesforce. ]]></description>
+      <pubDate>Thu, 04 Nov 2021 16:10:57 GMT</pubDate>
     </item>
   </channel>
 </rss>

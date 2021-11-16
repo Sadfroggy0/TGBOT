@@ -1,15 +1,9 @@
 package dbHandler;
 
-
-
 import rssParser.News;
-
-import java.security.PublicKey;
 import java.sql.*;
 import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+
 
 public class DBController {
     private static final String URL= "jdbc:postgresql://localhost:5432/NewsDB";
@@ -29,13 +23,24 @@ public class DBController {
         }
 
     }
-    public static void save(News news){
+    public static void save(News news,int index){
+
         try {
 
-
             Statement statement = connection.createStatement();
-            String SQL = "INSERT INTO news VALUES('"+news.getPubDate()+"','"+news.getTitle()+
+            String SQL=null;
+
+            if(index==0)
+            SQL = "INSERT INTO news VALUES('"+news.getPubDate()+"','"+news.getTitle()+
                     "','"+news.getDescription()+"', '"+news.getLink()+"')";
+
+            if(index==1)
+                SQL = "INSERT INTO earningnews VALUES('"+news.getPubDate()+"','"+news.getTitle()+
+                        "','"+news.getDescription()+"', '"+news.getLink()+"')";
+
+            if(index==2)
+                SQL = "INSERT INTO financenews VALUES('"+news.getPubDate()+"','"+news.getTitle()+
+                        "','"+news.getDescription()+"', '"+news.getLink()+"')";
             statement.executeUpdate(SQL);
 
         }catch(SQLException throwables){

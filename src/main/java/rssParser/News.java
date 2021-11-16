@@ -65,7 +65,7 @@ public class News extends MessageHandler {
     public void setId(int id) {
         this.id = id;
     }
-    static public SendMessage newsOutput(SendMessage sendMessage, int index){
+   /* static public SendMessage newsOutput(SendMessage sendMessage, int index){
         try {
             new RssParser(News.cnbcLinks[index]);
         } catch (Exception e) {
@@ -84,7 +84,7 @@ public class News extends MessageHandler {
         //News.newsList.clear();
         return sendMessage;
 
-    }
+    }*/
 
 
 
