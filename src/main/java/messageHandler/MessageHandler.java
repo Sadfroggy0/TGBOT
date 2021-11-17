@@ -2,7 +2,6 @@ package messageHandler;
 
 import dbHandler.DBController;
 import mailing.Mailing;
-import mailing.Subscription;
 import org.telegram.telegrambots.meta.api.methods.send.SendMessage;
 import org.telegram.telegrambots.meta.api.objects.Update;
 import org.telegram.telegrambots.meta.api.objects.replykeyboard.ReplyKeyboardMarkup;
@@ -57,7 +56,7 @@ public class MessageHandler extends  Bot {
 
     }
     public void mailingExecution(){
-        if(Mailing.mailingNews.size()!=0 | Mailing.mailingNews!=null){
+        /*if(Mailing.mailingNews.size()!=0 | Mailing.mailingNews!=null){
             for (int i=0;i<Mailing.mailingNews.size();i++){
                 mailingMessage = new SendMessage();
                 mailingMessage.setText(
@@ -65,8 +64,23 @@ public class MessageHandler extends  Bot {
                                 Mailing.mailingNews.get(i).getTitle()+"\n"+
                                 Mailing.mailingNews.get(i).getLink()
                 );
+                try {
+                    execute(mailingMessage);
+                } catch (TelegramApiException e) {
+                    e.printStackTrace();
+                }
             }
             Mailing.mailingNews.clear();
+        }*/
+        for (int i=0;i<Mailing.subs.size();i++ ) {
+            mailingMessage = new SendMessage();
+            mailingMessage.setChatId(Mailing.subs.get(i));
+            mailingMessage.setText("ALABADABU");
+            try {
+                execute(mailingMessage);
+            } catch (TelegramApiException e) {
+                e.printStackTrace();
+            }
         }
 
     }

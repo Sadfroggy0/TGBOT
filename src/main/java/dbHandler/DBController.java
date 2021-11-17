@@ -1,7 +1,6 @@
 package dbHandler;
 
 import mailing.Mailing;
-import mailing.Subscription;
 import rssParser.News;
 import java.sql.*;
 import java.util.ArrayList;
@@ -26,39 +25,41 @@ public class DBController {
 
     }
     public static void saveSubs(String id){
-
-
+            ArrayList<String>temp= new ArrayList<>();
+            temp=getSubs();
             try {
                 Statement statement = connection.createStatement();
-                if(getSubs().size()==0) {
-                    String SQL = "INSERT INTO subscribers VALUES('" + id + "')";
-                    Subscription.subs.add(id);
+                if(temp.size()==0){
+                    String SQL = "INSERT INTO subscribers VALUES('" + id+ "')";
+                    Mailing.subs.add(id);
                     statement.executeUpdate(SQL);
+                    return;
                 }
-                if(getSubs().size()>0){
-                    for (int i =0;i< getSubs().size();i++){
-                        if(id.equals(getSubs().get(i)))
-                            return;
 
-                        String SQL = "INSERT INTO subscribers VALUES('" + id + "')";
-                        Subscription.subs.add(id);
-                        statement.executeUpdate(SQL);
+                for (int i =0;i< temp.size();i++) {
+                    if (id.equals(temp.get(i))) {
+                        return;
                     }
                 }
-            } catch (SQLException throwables) {
+                String SQL = "INSERT INTO subscribers VALUES('" + id+ "')";
+                Mailing.subs.add(id);
+                statement.executeUpdate(SQL);
+
+            }
+            catch (SQLException throwables) {
                 throwables.printStackTrace();
             }
 
 
     }
     public static ArrayList<String> getSubs(){
-        ArrayList<String>subs  = new ArrayList<>();
+        ArrayList<String>subs = new ArrayList<>();
         try {
             Statement statement = connection.createStatement();
             String SQL= "SELECT * FROM  subscribers";
             ResultSet resultSet = statement.executeQuery(SQL);
             while (resultSet.next()){
-                Subscription.subs.add(resultSet.getString("id"));
+                subs.add(resultSet.getString("id").toString());
             }
         } catch (SQLException throwables) {
             throwables.printStackTrace();

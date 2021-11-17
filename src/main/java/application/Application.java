@@ -21,24 +21,26 @@ public class Application {
         timer.schedule(new TimerTask() {
             @Override
             public void run() {
-                for (int i = 0; i< News.cnbcLinks.length; i++) {
+                Mailing.subs.clear();
+                Mailing.subs = DBController.getSubs();
+                System.out.println("HEllo");
+                for (int i = 0; i < News.cnbcLinks.length; i++) {
                     try {
                         new RssParser(News.cnbcLinks[i]);
                     } catch (Exception e) {
                         e.printStackTrace();
                     }
-                    for (int j =1;j<News.newsList.size();j++){
-                        DBController.saveMailingNews(News.newsList.get(j),i);
+                    for (int j = 1; j < News.newsList.size(); j++) {
+                        DBController.saveMailingNews(News.newsList.get(j), i);
                     }
                     News.newsList.clear();
                 }
                 MessageHandler messageHandler = new MessageHandler();
                 messageHandler.mailingExecution();
             }
-        },0,60000);
-        /*Timer timer = new Timer();
-        Mailing mailing = new Mailing();
-        timer.schedule(mailing, 10000,60000);*/
+
+        },0,30000);
+
         BasicConfigurator.configure();
         try {
             TelegramBotsApi telegramBotsApi = new TelegramBotsApi(DefaultBotSession.class);

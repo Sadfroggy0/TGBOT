@@ -10,7 +10,11 @@ import java.util.List;
 import java.util.TimerTask;
 
 public class Mailing extends TimerTask {
+    public static ArrayList<String>subs = new ArrayList<>();
     public static ArrayList<News> mailingNews= new ArrayList<>();
+
+    private String id;
+
     @Override
     public void run() {
         for (int i =0;i<News.cnbcLinks.length;i++) {
