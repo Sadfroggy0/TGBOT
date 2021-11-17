@@ -31,8 +31,11 @@ public class StartKeyboard {
 
         ArrayList<KeyboardRow> keyboard = new ArrayList<>();
         KeyboardRow keyboardFirstRow = new KeyboardRow();
-        keyboardFirstRow.add("sort by date");
+        KeyboardRow keyboardSecondRow = new KeyboardRow();
+        keyboardFirstRow.add("Subscribe");
+        keyboardSecondRow.add("Unsub");
         keyboard.add(keyboardFirstRow);
+        keyboard.add(keyboardSecondRow);
         replyKeyboardMarkup.setKeyboard(keyboard);
 
         return replyKeyboardMarkup;

@@ -1,14 +1,44 @@
 package application;
 
+import dbHandler.DBController;
+import mailing.Mailing;
+import messageHandler.MessageHandler;
 import org.apache.log4j.BasicConfigurator;
 import org.json.XML;
 import org.telegram.telegrambots.meta.TelegramBotsApi;
 import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 import org.telegram.telegrambots.updatesreceivers.DefaultBotSession;
+import rssParser.News;
+import rssParser.RssParser;
+
+import java.util.Timer;
+import java.util.TimerTask;
 
 
 public class Application {
     public static void main(String[] args) {
+        Timer timer = new Timer();
+        timer.schedule(new TimerTask() {
+            @Override
+            public void run() {
+                for (int i = 0; i< News.cnbcLinks.length; i++) {
+                    try {
+                        new RssParser(News.cnbcLinks[i]);
+                    } catch (Exception e) {
+                        e.printStackTrace();
+                    }
+                    for (int j =1;j<News.newsList.size();j++){
+                        DBController.saveMailingNews(News.newsList.get(j),i);
+                    }
+                    News.newsList.clear();
+                }
+                MessageHandler messageHandler = new MessageHandler();
+                messageHandler.mailingExecution();
+            }
+        },0,60000);
+        /*Timer timer = new Timer();
+        Mailing mailing = new Mailing();
+        timer.schedule(mailing, 10000,60000);*/
         BasicConfigurator.configure();
         try {
             TelegramBotsApi telegramBotsApi = new TelegramBotsApi(DefaultBotSession.class);
@@ -16,5 +46,6 @@ public class Application {
         } catch (TelegramApiException e) {
             e.printStackTrace();
         }
+
     }
 }
