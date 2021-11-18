@@ -1,6 +1,7 @@
 package dbHandler;
 
 import mailing.Mailing;
+import messageHandler.MessageHandler;
 import rssParser.News;
 import java.sql.*;
 import java.util.ArrayList;
@@ -25,29 +26,19 @@ public class DBController {
 
     }
     public static void saveSubs(String id){
-            ArrayList<String>temp= new ArrayList<>();
-            temp=getSubs();
             try {
                 Statement statement = connection.createStatement();
-                if(temp.size()==0){
+                //if(temp.size()==0){
                     String SQL = "INSERT INTO subscribers VALUES('" + id+ "')";
-                    Mailing.subs.add(id);
                     statement.executeUpdate(SQL);
-                    return;
-                }
+                    Mailing.subs.add(id);
 
-                for (int i =0;i< temp.size();i++) {
-                    if (id.equals(temp.get(i))) {
-                        return;
-                    }
-                }
-                String SQL = "INSERT INTO subscribers VALUES('" + id+ "')";
-                Mailing.subs.add(id);
-                statement.executeUpdate(SQL);
 
             }
             catch (SQLException throwables) {
-                throwables.printStackTrace();
+               // throwables.printStackTrace();
+                MessageHandler messageHandler = new MessageHandler();
+                messageHandler.subExceptionExecution(id);
             }
 
 
@@ -71,36 +62,27 @@ public class DBController {
         try {
             Statement statement = connection.createStatement();
             String SQL=null;
-            ArrayList<String>temp = getAll(index);
+            //ArrayList<String>temp = getAll(index);
             if(index==0) {
-                for (int i =0;i< temp.size();i++){
-                    if (temp.get(i).equals(news.getLink()))
-                        return;
-                }
+
                 SQL = "INSERT INTO news VALUES('" + news.getPubDate() + "','" + news.getTitle() +
                         "','" + news.getDescription() + "', '" + news.getLink() + "')";
             }
             if(index==1) {
-                for (int i =0;i< temp.size();i++){
-                    if (temp.get(i).equals(news.getLink()))
-                        return;
-                }
+
 
                 SQL = "INSERT INTO earningnews VALUES('" + news.getPubDate() + "','" + news.getTitle() +
                         "','" + news.getDescription() + "', '" + news.getLink() + "')";
             }
             if(index==2) {
-                for (int i =0;i< temp.size();i++){
-                    if (temp.get(i).equals(news.getLink()))
-                        return;
-                }
+
                 SQL = "INSERT INTO financenews VALUES('" + news.getPubDate() + "','" + news.getTitle() +
                         "','" + news.getDescription() + "', '" + news.getLink() + "')";
             }
                 statement.executeUpdate(SQL);
 
         }catch(SQLException throwables){
-            throwables.printStackTrace();
+            //throwables.printStackTrace();
         }
     }
 
@@ -108,37 +90,29 @@ public class DBController {
         try {
             Statement statement = connection.createStatement();
             String SQL=null;
-            ArrayList<String>temp = getAll(index);
             if(index==0) {
-                for (int i =0;i< temp.size();i++){
-                    if (temp.get(i).equals(news.getLink()))
-                        return;
-                }
                 SQL = "INSERT INTO news VALUES('" + news.getPubDate() + "','" + news.getTitle() +
                         "','" + news.getDescription() + "', '" + news.getLink() + "')";
+
+
             }
             if(index==1) {
-                for (int i =0;i< temp.size();i++){
-                    if (temp.get(i).equals(news.getLink()))
-                        return;
-                }
-
                 SQL = "INSERT INTO earningnews VALUES('" + news.getPubDate() + "','" + news.getTitle() +
                         "','" + news.getDescription() + "', '" + news.getLink() + "')";
+
             }
             if(index==2) {
-                for (int i =0;i< temp.size();i++){
-                    if (temp.get(i).equals(news.getLink()))
-                        return;
-                }
+
                 SQL = "INSERT INTO financenews VALUES('" + news.getPubDate() + "','" + news.getTitle() +
                         "','" + news.getDescription() + "', '" + news.getLink() + "')";
+
             }
             statement.executeUpdate(SQL);
             Mailing.mailingNews.add(news);
 
+
         }catch(SQLException throwables){
-            throwables.printStackTrace();
+           // throwables.printStackTrace();
         }
     }
 

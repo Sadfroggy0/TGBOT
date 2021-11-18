@@ -23,7 +23,6 @@ public class Application {
             public void run() {
                 Mailing.subs.clear();
                 Mailing.subs = DBController.getSubs();
-                System.out.println("HEllo");
                 for (int i = 0; i < News.cnbcLinks.length; i++) {
                     try {
                         new RssParser(News.cnbcLinks[i]);
@@ -39,7 +38,7 @@ public class Application {
                 messageHandler.mailingExecution();
             }
 
-        },0,30000);
+        },0,120000);
 
         BasicConfigurator.configure();
         try {
