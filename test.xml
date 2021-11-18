@@ -10,10 +10,20 @@
       <subtype>section</subtype>
       <seo>https://www.cnbc.com/finance/</seo>
     </feed_asset>
-    <lastBuildDate>Thu, 18 Nov 2021 11:21 GMT</lastBuildDate>
-    <pubDate>Thu, 18 Nov 2021 11:21 GMT</pubDate>
+    <lastBuildDate>Thu, 18 Nov 2021 11:32 GMT</lastBuildDate>
+    <pubDate>Thu, 18 Nov 2021 11:32 GMT</pubDate>
     <link>https://www.cnbc.com/finance/</link>
     <description><![CDATA[Latest investing news and finance headlines straight from Wall Street.]]></description>
+    <item>
+      <link>https://www.cnbc.com/2021/11/18/german-digital-bank-n26-to-withdraw-from-the-us.html</link>
+      <guid isPermaLink="false">106977266</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106977266</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Germany&apos;s $9 billion digital bank N26 to withdraw from the U.S.</title>
+      <description><![CDATA[N26's American customers will no longer be able to use its app from Jan. 11, 2022.]]></description>
+      <pubDate>Thu, 18 Nov 2021 11:33:55 GMT</pubDate>
+    </item>
     <item>
       <link>https://www.cnbc.com/2021/11/18/china-evergrande-default-is-highly-likely-sp-says.html</link>
       <guid isPermaLink="false">106977278</guid>
@@ -62,7 +72,7 @@
       <metadata:sponsored>false</metadata:sponsored>
       <title>Stock futures edge higher after Dow pulls back in regular session </title>
       <description><![CDATA[On Wednesday, the Dow Jones Industrial Average lost 211 points, dragged down by a 4.7% loss in Visa shares.]]></description>
-      <pubDate>Thu, 18 Nov 2021 11:21:07 GMT</pubDate>
+      <pubDate>Thu, 18 Nov 2021 11:35:48 GMT</pubDate>
     </item>
     <item>
       <link>https://www.cnbc.com/2021/11/17/stocks-making-the-biggest-moves-after-hours-nvidia-cisco-systems-victorias-secret-and-more.html</link>
@@ -303,16 +313,6 @@
       <title>Stocks making the biggest moves in the premarket: Oatly, Tesla, Dollar Tree and more </title>
       <description><![CDATA[The stocks making the biggest moves in premarket trading include Oatly, Tesla, Dollar Tree, and more.]]></description>
       <pubDate>Mon, 15 Nov 2021 12:49:01 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2021/11/14/stock-market-futures-open-to-close-news.html</link>
-      <guid isPermaLink="false">106974830</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106974830</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>Stocks close flat to start the week ahead of big retail earnings</title>
-      <description><![CDATA[U.S. equities were flat Monday, as U.S. Treasury yields climbed higher and investors awaited quarterly reports from big retailers later in the week.]]></description>
-      <pubDate>Mon, 15 Nov 2021 21:48:08 GMT</pubDate>
     </item>
   </channel>
 </rss>

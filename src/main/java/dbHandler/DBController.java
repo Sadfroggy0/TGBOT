@@ -28,7 +28,6 @@ public class DBController {
     public static void saveSubs(String id){
             try {
                 Statement statement = connection.createStatement();
-                //if(temp.size()==0){
                     String SQL = "INSERT INTO subscribers VALUES('" + id+ "')";
                     statement.executeUpdate(SQL);
                     Mailing.subs.add(id);
@@ -45,7 +44,6 @@ public class DBController {
     public static void deleteSubs(String id){
         try {
             Statement statement = connection.createStatement();
-            //if(temp.size()==0){
             String SQL = "DELETE FROM subscribers WHERE id='"+id+"'";
             statement.executeUpdate(SQL);
             Mailing.subs.add(id);
@@ -78,22 +76,15 @@ public class DBController {
         try {
             Statement statement = connection.createStatement();
             String SQL=null;
-            //ArrayList<String>temp = getAll(index);
-            if(index==0) {
 
-                SQL = "INSERT INTO news VALUES('" + news.getPubDate() + "','" + news.getTitle() +
-                        "','" + news.getDescription() + "', '" + news.getLink() + "')";
+            if(index==0) {
+                SQL = "INSERT INTO news VALUES('" + news.getPubDate() + "','" + news.getTitle() + "','" + news.getDescription() + "', '" + news.getLink() + "')";
             }
             if(index==1) {
-
-
-                SQL = "INSERT INTO earningnews VALUES('" + news.getPubDate() + "','" + news.getTitle() +
-                        "','" + news.getDescription() + "', '" + news.getLink() + "')";
+                SQL = "INSERT INTO earningnews VALUES('" + news.getPubDate() + "','" + news.getTitle() + "','" + news.getDescription() + "', '" + news.getLink() + "')";
             }
             if(index==2) {
-
-                SQL = "INSERT INTO financenews VALUES('" + news.getPubDate() + "','" + news.getTitle() +
-                        "','" + news.getDescription() + "', '" + news.getLink() + "')";
+                SQL = "INSERT INTO financenews VALUES('" + news.getPubDate() + "','" + news.getTitle() + "','" + news.getDescription() + "', '" + news.getLink() + "')";
             }
                 statement.executeUpdate(SQL);
 
@@ -107,20 +98,14 @@ public class DBController {
             Statement statement = connection.createStatement();
             String SQL=null;
             if(index==0) {
-                SQL = "INSERT INTO news VALUES('" + news.getPubDate() + "','" + news.getTitle() +
-                        "','" + news.getDescription() + "', '" + news.getLink() + "')";
-
-
+                SQL = "INSERT INTO news VALUES('" + news.getPubDate() + "','" + news.getTitle() + "','" + news.getDescription() + "', '" + news.getLink() + "')";
             }
             if(index==1) {
-                SQL = "INSERT INTO earningnews VALUES('" + news.getPubDate() + "','" + news.getTitle() +
-                        "','" + news.getDescription() + "', '" + news.getLink() + "')";
+                SQL = "INSERT INTO earningnews VALUES('" + news.getPubDate() + "','" + news.getTitle() + "','" + news.getDescription() + "', '" + news.getLink() + "')";
 
             }
             if(index==2) {
-
-                SQL = "INSERT INTO financenews VALUES('" + news.getPubDate() + "','" + news.getTitle() +
-                        "','" + news.getDescription() + "', '" + news.getLink() + "')";
+                SQL = "INSERT INTO financenews VALUES('" + news.getPubDate() + "','" + news.getTitle() + "','" + news.getDescription() + "', '" + news.getLink() + "')";
 
             }
             statement.executeUpdate(SQL);
