@@ -43,6 +43,7 @@ public class MessageHandler extends  Bot {
 
                 break;
             case "Unsub":
+                DBController.deleteSubs(Update.getMessage().getChatId().toString());
                 break;
             case "Back":
                 message.setReplyMarkup(new Keyboard().StartKeyboard());
@@ -59,10 +60,21 @@ public class MessageHandler extends  Bot {
 
 
     }
+    public  void subDeleteExceptionExecution(String id){
+        SendMessage subException = new SendMessage();
+        subException.setChatId(id);
+        subException.setText("You have already unsubscribed");
+        try {
+            execute(subException);
+        } catch (TelegramApiException e) {
+            e.printStackTrace();
+        }
+
+    }
     public void subExceptionExecution(String id){
         SendMessage subException = new SendMessage();
         subException.setChatId(id);
-        subException.setText("Вы уже подписаны");
+        subException.setText("You have already subscribed");
         try {
             execute(subException);
         } catch (TelegramApiException e) {

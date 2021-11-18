@@ -6,7 +6,6 @@ import rssParser.News;
 import rssParser.RssParser;
 
 import java.util.ArrayList;
-import java.util.List;
 import java.util.TimerTask;
 
 public class Mailing extends TimerTask {

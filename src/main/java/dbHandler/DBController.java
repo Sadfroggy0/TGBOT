@@ -40,6 +40,22 @@ public class DBController {
                 MessageHandler messageHandler = new MessageHandler();
                 messageHandler.subExceptionExecution(id);
             }
+    }
+
+    public static void deleteSubs(String id){
+        try {
+            Statement statement = connection.createStatement();
+            //if(temp.size()==0){
+            String SQL = "DELETE FROM subscribers WHERE id='"+id+"'";
+            statement.executeUpdate(SQL);
+            Mailing.subs.add(id);
+
+        }
+        catch (SQLException throwables) {
+            // throwables.printStackTrace();
+            MessageHandler messageHandler = new MessageHandler();
+            messageHandler.subDeleteExceptionExecution(id);
+        }
 
 
     }

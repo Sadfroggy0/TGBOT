@@ -2,6 +2,7 @@ package rssParser;
 
 import java.io.*;
 import java.net.URL;
+import java.net.URLConnection;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -20,7 +21,6 @@ public class RssParser {
             try (InputStream in = website.openStream()) {
             Files.copy(in, target, StandardCopyOption.REPLACE_EXISTING);
             }
-
             SAXParserFactory factory = SAXParserFactory.newInstance();
             SAXParser parser = factory.newSAXParser();
             CNBCxmlHandler handler = new CNBCxmlHandler();
