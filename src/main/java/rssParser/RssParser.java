@@ -22,11 +22,11 @@ public class RssParser {
             BufferedReader in = new BufferedReader(
                     new InputStreamReader(website.openStream()));
 
-            FileWriter fw = new FileWriter("XML.xml",false);
+            FileWriter fw = new FileWriter("test.xml",false);
             String inputLine;
             while ((inputLine = in.readLine()) != null) {
                     inputLine=inputLine.replace("&apos;","'");
-                    inputLine=inputLine.replace("&amp;","&");
+                    //inputLine=inputLine.replace("&amp;","&");
                     fw.write(inputLine);
                     fw.write("\n");
             }
@@ -40,7 +40,7 @@ public class RssParser {
             SAXParserFactory factory = SAXParserFactory.newInstance();
             SAXParser parser = factory.newSAXParser();
             CNBCxmlHandler handler = new CNBCxmlHandler();
-            parser.parse(new File("XML.xml"), handler);
+            parser.parse(new File("test.xml"), handler);
 
 
     }

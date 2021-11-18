@@ -10,10 +10,30 @@
       <subtype>section</subtype>
       <seo>https://www.cnbc.com/business/</seo>
     </feed_asset>
-    <lastBuildDate>Thu, 18 Nov 2021 15:19 GMT</lastBuildDate>
-    <pubDate>Thu, 18 Nov 2021 15:19 GMT</pubDate>
+    <lastBuildDate>Thu, 18 Nov 2021 16:01 GMT</lastBuildDate>
+    <pubDate>Thu, 18 Nov 2021 16:01 GMT</pubDate>
     <link>https://www.cnbc.com/business/</link>
     <description><![CDATA[Latest headlines for business news around the world. ]]></description>
+    <item>
+      <link>https://www.cnbc.com/2021/11/18/atts-big-management-mistake-according-to-former-time-warner-ceo.html</link>
+      <guid isPermaLink="false">106977196</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106977196</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>The big management mistake AT&T made after acquisition, according to former Time Warner CEO</title>
+      <description><![CDATA[Time Warner made the AT&T deal to reach its 100 million-plus customers, not to be micromanaged, but that's what happened, says former Warner boss Jeff Bewkes.]]></description>
+      <pubDate>Thu, 18 Nov 2021 15:44:24 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2021/11/18/sen-elizabeth-warren-calls-on-sec-to-investigate-trump-spac-deal.html</link>
+      <guid isPermaLink="false">106977417</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106977417</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Sen. Elizabeth Warren calls on SEC to investigate Trump SPAC deal</title>
+      <description><![CDATA[Warren cited reports that Digital World Acquisition Corp., which plans to merge with Trump's social media company, may have committed securities violations.]]></description>
+      <pubDate>Thu, 18 Nov 2021 15:53:13 GMT</pubDate>
+    </item>
     <item>
       <link>https://www.cnbc.com/2021/11/18/consumer-reports-2021-auto-reliability-survey-how-tesla-evs-fared.html</link>
       <guid isPermaLink="false">106977062</guid>
@@ -32,7 +52,7 @@
       <metadata:sponsored>false</metadata:sponsored>
       <title>CVS to close about 900 stores over next three years, as it shifts to digital strategy</title>
       <description><![CDATA[The drugstore chain said it will focus more of its efforts on digital growth and turning its stores into health-care destinations.]]></description>
-      <pubDate>Thu, 18 Nov 2021 15:30:13 GMT</pubDate>
+      <pubDate>Thu, 18 Nov 2021 16:02:59 GMT</pubDate>
     </item>
     <item>
       <link>https://www.cnbc.com/2021/11/18/biden-administration-buys-10-million-courses-of-pfizer-covid-treatment-pill.html</link>
@@ -122,7 +142,7 @@
       <metadata:sponsored>false</metadata:sponsored>
       <title>Kohl's shares jump after retailer reports 16% sales increase as shoppers buy clothes and makeup</title>
       <description><![CDATA[The department store chain also raised its forecast for the year. ]]></description>
-      <pubDate>Thu, 18 Nov 2021 14:43:49 GMT</pubDate>
+      <pubDate>Thu, 18 Nov 2021 15:51:58 GMT</pubDate>
     </item>
     <item>
       <link>https://www.cnbc.com/2021/11/18/macys-m-q3-2021-earnings.html</link>
@@ -132,7 +152,7 @@
       <metadata:sponsored>false</metadata:sponsored>
       <title>Macy's shares surge on upbeat earnings, decision to hire AlixPartners to review business</title>
       <description><![CDATA[Macy's reported third-quarter earnings and sales that topped analysts' expectations, leading the department store chain to raise its full-year forecast. ]]></description>
-      <pubDate>Thu, 18 Nov 2021 15:26:41 GMT</pubDate>
+      <pubDate>Thu, 18 Nov 2021 15:44:31 GMT</pubDate>
     </item>
     <item>
       <link>https://www.cnbc.com/2021/11/18/airbus-smashes-orders-at-dubai-air-show-boeing-trails-behind.html</link>
@@ -293,26 +313,6 @@
       <title>Walmart and Target clash with investors over strategy to keep prices low despite inflation</title>
       <description><![CDATA[Investors are at odds with the discounters over how much of the higher costs of shipping, labor and more should be passed on to customers.]]></description>
       <pubDate>Wed, 17 Nov 2021 21:10:27 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2021/11/17/chobani-files-to-go-public-through-ipo-as-its-yogurt-sales-rise.html</link>
-      <guid isPermaLink="false">106976933</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106976933</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>Chobani files to go public through initial public offering as its yogurt sales rise</title>
-      <description><![CDATA[Chobani on Wednesday filed to go public on the Nasdaq Exchange under the symbol "CHO." ]]></description>
-      <pubDate>Wed, 17 Nov 2021 19:05:09 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2021/11/17/eternals-series-on-disney-would-have-solved-issues-with-the-marvel-film.html</link>
-      <guid isPermaLink="false">106975585</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106975585</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>An 'Eternals' series on Disney+ would have solved critical issues with Marvel's latest film</title>
-      <description><![CDATA[Disney+ would have been the perfect place to introduce the characters of Marvel's latest film "Eternals" prior to their on-screen debut.]]></description>
-      <pubDate>Wed, 17 Nov 2021 19:02:56 GMT</pubDate>
     </item>
   </channel>
 </rss>
