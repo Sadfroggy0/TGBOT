@@ -1,9 +1,9 @@
 package messageHandler;
 
 import dbHandler.DBController;
+import mailing.Mailing;
 import org.telegram.telegrambots.meta.api.methods.send.SendMessage;
 import org.telegram.telegrambots.meta.api.objects.Update;
-import org.telegram.telegrambots.meta.api.objects.replykeyboard.ReplyKeyboardMarkup;
 import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 import application.Bot;
 import rssParser.News;
@@ -11,37 +11,44 @@ import rssParser.RssParser;
 
 
 public class MessageHandler extends  Bot {
-
+    static Update Update;
+    static SendMessage mailingMessage;
     public  void messageSender(Update update) throws Exception {
+        Update = update;
         SendMessage message = new SendMessage();
         message.setChatId(update.getMessage().getChatId().toString());
-
         switch (update.getMessage().getText()){
             case "/start"://    todo привести этот колхоз в нормальный вид
                 message.setText("Hi, my name is FinBot. Choose an option");
-                ReplyKeyboardMarkup replyKeyboardMarkup = new ReplyKeyboardMarkup();
-                new StartKeyboard(replyKeyboardMarkup);
-                message.setReplyMarkup(replyKeyboardMarkup);
+                message.setReplyMarkup(new Keyboard().StartKeyboard());
                 execute(message);
                 break;
-            case "Business":
+            case "Business Latest News":
                 newsOutput(message,0);
                 break;
 
-            case "Earnings":
+            case "Earnings Latest News":
                 newsOutput(message,1);
                 break;
-            case "Finance":
+            case "Finance Latest News":
                newsOutput(message, 2);
                 break;
-            case "Четвертая кнопка":
-                message.setText("Date option");
-                message.setReplyMarkup(StartKeyboard.newKeyboard());
+            case "Auto-Mailing":
+                message.setText("Choose an option");
+                message.setReplyMarkup(Keyboard.newKeyboard());
                 execute(message);
                 break;
-            case " ":
+            case "Subscribe":
+                    DBController.saveSubs(update.getMessage().getChatId().toString());
+
                 break;
-            case "":
+            case "Unsub":
+                DBController.deleteSubs(Update.getMessage().getChatId().toString());
+                break;
+            case "Back":
+                message.setReplyMarkup(new Keyboard().StartKeyboard());
+                message.setText("Main Menu");
+                execute(message);
                 break;
             default:
                 message.setText("No such a command.\nUse  /start to see more options");
@@ -51,6 +58,59 @@ public class MessageHandler extends  Bot {
                     e.printStackTrace(); }
         }
 
+
+    }
+    public  void subDeleteExceptionExecution(String id){
+        SendMessage subException = new SendMessage();
+        subException.setChatId(id);
+        subException.setText("You have already unsubscribed");
+        try {
+            execute(subException);
+        } catch (TelegramApiException e) {
+            e.printStackTrace();
+        }
+
+    }
+    public void subExceptionExecution(String id){
+        SendMessage subException = new SendMessage();
+        subException.setChatId(id);
+        subException.setText("You have already subscribed");
+        try {
+            execute(subException);
+        } catch (TelegramApiException e) {
+            e.printStackTrace();
+        }
+    }
+    public void mailingExecution(){
+        if(Mailing.mailingNews.size()!=0 ){
+            for (int i=0;i<Mailing.mailingNews.size();i++){
+                for (int j=0;j<Mailing.subs.size();j++) {
+                    mailingMessage = new SendMessage();
+                    mailingMessage.setChatId(Mailing.subs.get(j));
+                    mailingMessage.setText(
+                            Mailing.mailingNews.get(i).getPubDate() + "\n" +
+                                    Mailing.mailingNews.get(i).getTitle() + "\n" +
+                                    Mailing.mailingNews.get(i).getLink()
+                    );
+                    try {
+                        execute(mailingMessage);
+                    } catch (TelegramApiException e) {
+                        e.printStackTrace();
+                    }
+                }
+            }
+            Mailing.mailingNews.clear();
+        }
+        /*for (int i=0;i<Mailing.subs.size();i++ ) {
+            mailingMessage = new SendMessage();
+            mailingMessage.setChatId(Mailing.subs.get(i));
+            mailingMessage.setText("ALABADABU");
+            try {
+                execute(mailingMessage);
+            } catch (TelegramApiException e) {
+                e.printStackTrace();
+            }
+        }*/
 
     }
     private void newsOutput(SendMessage mes, int index){
@@ -77,5 +137,6 @@ public class MessageHandler extends  Bot {
         News.newsList.clear();
 
     }
+
 
 }

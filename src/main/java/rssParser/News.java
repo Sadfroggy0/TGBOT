@@ -20,7 +20,6 @@ public class News extends MessageHandler {
     private String title;
     private String description;
 
-    private int id;
 
     /*public News(String pubDate, String title, String description, String link) {
         this.pubDate = pubDate;
@@ -61,31 +60,6 @@ public class News extends MessageHandler {
     }
 
     private String link;
-
-    public void setId(int id) {
-        this.id = id;
-    }
-   /* static public SendMessage newsOutput(SendMessage sendMessage, int index){
-        try {
-            new RssParser(News.cnbcLinks[index]);
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-        for (int i = 1; i< News.newsList.size(); i++){
-            DBController.save(News.newsList.get(i));
-            sendMessage.setText(
-             News.newsList.get(i).getPubDate()+"\n"+
-                    News.newsList.get(i).getTitle()+"\n"+
-                    //RssParser.news.get(i).getDescription()+"\n"+
-                    News.newsList.get(i).getLink()
-            );
-
-        }
-        //News.newsList.clear();
-        return sendMessage;
-
-    }*/
-
 
 
 }
