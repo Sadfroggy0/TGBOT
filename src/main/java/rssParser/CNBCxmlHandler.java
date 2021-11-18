@@ -1,6 +1,7 @@
 package rssParser;
 
 import com.google.common.html.HtmlEscapers;
+import org.jsoup.Jsoup;
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
@@ -52,6 +53,11 @@ public class CNBCxmlHandler extends DefaultHandler {
     public void characters(char[] ch, int start, int length) throws SAXException {
         String information = HtmlEscapers.htmlEscaper().escape(new String(ch, start, length));
         information =information.replace("\n", "").trim();
+        information = Jsoup.parse(information).text();
+        /*information+=information.replace("&amp;","&").trim();
+        information+=information.replace("&#39;","'").trim();
+        information+=information.replace("&apos","'").trim();*/
+
 
         if (!information.isEmpty()) {
             if (lastElementName.equals("link"))
