@@ -23,22 +23,20 @@ public class DBController {
         } catch (SQLException throwables) {
             throwables.printStackTrace();
         }
-
     }
+
     public static void saveSubs(String id){
-            try {
-                Statement statement = connection.createStatement();
-                    String SQL = "INSERT INTO subscribers VALUES('" + id+ "')";
-                    statement.executeUpdate(SQL);
-                    Mailing.subs.add(id);
-
-
-            }
-            catch (SQLException throwables) {
-               // throwables.printStackTrace();
-                MessageHandler messageHandler = new MessageHandler();
-                messageHandler.subExceptionExecution(id);
-            }
+        try {
+            Statement statement = connection.createStatement();
+            String SQL = "INSERT INTO subscribers VALUES('" + id+ "')";
+            statement.executeUpdate(SQL);
+            Mailing.subs.add(id);
+        }
+        catch (SQLException throwables){
+            //throwables.printStackTrace();
+            MessageHandler messageHandler = new MessageHandler();
+            messageHandler.subExceptionExecution(id);
+        }
     }
 
     public static void deleteSubs(String id){
@@ -47,15 +45,12 @@ public class DBController {
             String SQL = "DELETE FROM subscribers WHERE id='"+id+"'";
             statement.executeUpdate(SQL);
             Mailing.subs.add(id);
-
         }
         catch (SQLException throwables) {
             // throwables.printStackTrace();
             MessageHandler messageHandler = new MessageHandler();
             messageHandler.subDeleteExceptionExecution(id);
         }
-
-
     }
     public static ArrayList<String> getSubs(){
         ArrayList<String>subs = new ArrayList<>();
@@ -110,7 +105,6 @@ public class DBController {
             }
             statement.executeUpdate(SQL);
             Mailing.mailingNews.add(news);
-
 
         }catch(SQLException throwables){
            // throwables.printStackTrace();

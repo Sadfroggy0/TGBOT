@@ -45,7 +45,6 @@ public class CNBCxmlHandler extends DefaultHandler {
             description = null;
             link =null;
         }
-
     }
 
 
@@ -53,10 +52,9 @@ public class CNBCxmlHandler extends DefaultHandler {
     public void characters(char[] ch, int start, int length) throws SAXException {
         String information = HtmlEscapers.htmlEscaper().escape(new String(ch, start, length));
         information =information.replace("\n", "").trim();
-        information = Jsoup.parse(information).text();
-        /*information+=information.replace("&amp;","&").trim();
-        information+=information.replace("&#39;","'").trim();
-        information+=information.replace("&apos","'").trim();*/
+        information=information.replace("&amp;","&").trim();
+        information=information.replace("&#39;","'").trim();
+        information=information.replace("&apos","'").trim();
 
 
         if (!information.isEmpty()) {
