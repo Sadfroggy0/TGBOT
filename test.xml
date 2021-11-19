@@ -1,118 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:metadata="http://search.cnbc.com/rss/2.0/modules/siteContentMetadata" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <atom:link rel="self" type="application/rss+xml" href="https://www.cnbc.com/id/10001147/device/rss/rss.html"/>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.cnbc.com/id/10000664/device/rss/rss.html"/>
     <language>en-us</language>
     <ttl>60</ttl>
-    <title>Business News</title>
+    <title>Finance</title>
     <feed_asset>
-      <id>10001147</id>
+      <id>10000664</id>
       <type>franchise</type>
       <subtype>section</subtype>
-      <seo>https://www.cnbc.com/business/</seo>
+      <seo>https://www.cnbc.com/finance/</seo>
     </feed_asset>
-    <lastBuildDate>Thu, 18 Nov 2021 16:01 GMT</lastBuildDate>
-    <pubDate>Thu, 18 Nov 2021 16:01 GMT</pubDate>
-    <link>https://www.cnbc.com/business/</link>
-    <description><![CDATA[Latest headlines for business news around the world. ]]></description>
+    <lastBuildDate>Thu, 18 Nov 2021 23:30 GMT</lastBuildDate>
+    <pubDate>Thu, 18 Nov 2021 23:30 GMT</pubDate>
+    <link>https://www.cnbc.com/finance/</link>
+    <description><![CDATA[Latest investing news and finance headlines straight from Wall Street.]]></description>
     <item>
-      <link>https://www.cnbc.com/2021/11/18/atts-big-management-mistake-according-to-former-time-warner-ceo.html</link>
-      <guid isPermaLink="false">106977196</guid>
+      <link>https://www.cnbc.com/2021/11/18/stock-market-futures-open-to-close-news.html</link>
+      <guid isPermaLink="false">106977562</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106977196</metadata:id>
+      <metadata:id>106977562</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>The big management mistake AT&amp;T made after acquisition, according to former Time Warner CEO</title>
-      <description><![CDATA[Time Warner made the AT&T deal to reach its 100 million-plus customers, not to be micromanaged, but that's what happened, says former Warner boss Jeff Bewkes.]]></description>
-      <pubDate>Thu, 18 Nov 2021 16:06:25 GMT</pubDate>
+      <title>Stock futures rise slightly as S&amp;P 500 seeks to score a winning week</title>
+      <description><![CDATA[The market rally appeared to have slowed down a bit near record levels even amid strong earnings.]]></description>
+      <pubDate>Fri, 19 Nov 2021 00:04:09 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/18/sen-elizabeth-warren-calls-on-sec-to-investigate-trump-spac-deal.html</link>
-      <guid isPermaLink="false">106977417</guid>
+      <link>https://www.cnbc.com/2021/11/18/your-financial-advisor-may-be-overcharging-heres-how-to-protect-yourself.html</link>
+      <guid isPermaLink="false">106977534</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106977417</metadata:id>
+      <metadata:id>106977534</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Sen. Elizabeth Warren calls on SEC to investigate Trump SPAC deal</title>
-      <description><![CDATA[Warren cited reports that Digital World Acquisition Corp., which plans to merge with Trump's social media company, may have committed securities violations.]]></description>
-      <pubDate>Thu, 18 Nov 2021 16:06:02 GMT</pubDate>
+      <title>Is your financial advisor overcharging you? Here are ways to protect yourself</title>
+      <description><![CDATA[A recent Securities and Exchange Commission investigation of financial advisors' fees found several errors that caused clients to overpay what they owed.]]></description>
+      <pubDate>Thu, 18 Nov 2021 18:56:29 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/18/consumer-reports-2021-auto-reliability-survey-how-tesla-evs-fared.html</link>
-      <guid isPermaLink="false">106977062</guid>
+      <link>https://www.cnbc.com/2021/11/18/saule-omarova-senators-snipe-at-each-other-in-hearing-for-biden-bank-regulator-pick.html</link>
+      <guid isPermaLink="false">106977380</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106977062</metadata:id>
+      <metadata:id>106977380</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Here's where Tesla and other EVs ranked in this year's Consumer Reports reliability survey</title>
-      <description><![CDATA[Lexus, Mazda and Toyota topped the 2021 Consumer Reports Auto Reliability Report, while Jeep, Tesla, and Lincoln ranked in the bottom three.]]></description>
-      <pubDate>Thu, 18 Nov 2021 15:00:01 GMT</pubDate>
+      <title>Senators snipe at each other in heated confirmation hearing for Biden bank regulator pick</title>
+      <description><![CDATA[A nomination hearing for President Joe Biden's pick to be comptroller of the currency, Saule Omarova, turned fiery on Thursday.]]></description>
+      <pubDate>Thu, 18 Nov 2021 21:36:54 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/18/cvs-store-closures-to-shut-about-300-stores-a-year-over-next-three-years.html</link>
-      <guid isPermaLink="false">106977397</guid>
+      <link>https://www.cnbc.com/2021/11/18/john-malone-says-theres-a-misguided-land-rush-in-stocks-right-now-akin-to-late-90s-bubble.html</link>
+      <guid isPermaLink="false">106977027</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106977397</metadata:id>
+      <metadata:id>106977027</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>CVS to close about 900 stores over next three years, as it shifts to digital strategy</title>
-      <description><![CDATA[The drugstore chain said it will focus more of its efforts on digital growth and turning its stores into health-care destinations.]]></description>
-      <pubDate>Thu, 18 Nov 2021 16:09:19 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2021/11/18/biden-administration-buys-10-million-courses-of-pfizer-covid-treatment-pill.html</link>
-      <guid isPermaLink="false">106976720</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106976720</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>Biden administration buys 10 million courses of Pfizer Covid treatment pill</title>
-      <description><![CDATA["My administration is making the necessary preparations now to ensure these treatments will be easily accessible and free," President Joe Biden said in a statement.]]></description>
-      <pubDate>Thu, 18 Nov 2021 15:08:49 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2021/11/18/delta-covid-mutation-is-on-the-rise-in-the-uk-study.html</link>
-      <guid isPermaLink="false">106977338</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106977338</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>The delta Covid mutation is spreading in the UK, but may be less likely to cause symptoms</title>
-      <description><![CDATA[The delta subvariant recently identified in the U.K. is now twice as prevalent in England as it was two months ago, a government-backed study has found.]]></description>
-      <pubDate>Thu, 18 Nov 2021 13:39:19 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2021/11/18/macys-store-closures-10-more-to-be-announced-in-january.html</link>
-      <guid isPermaLink="false">106977361</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106977361</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>Macy's plans to announce 10 store closures in January while delaying other closures</title>
-      <description><![CDATA[The department store chain said it would provide additional details about the locations in the near future. ]]></description>
-      <pubDate>Thu, 18 Nov 2021 15:19:32 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2021/11/18/ford-partners-with-globalfoundries-to-increase-chip-supplies.html</link>
-      <guid isPermaLink="false">106977105</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106977105</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>Ford partners with GlobalFoundries to increase chip supplies</title>
-      <description><![CDATA[The companies on Thursday announced the signing of a nonbinding agreement for a strategic partnership that aims to increase the supply of chips to Ford.]]></description>
-      <pubDate>Thu, 18 Nov 2021 13:30:02 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2021/11/18/5-things-to-know-before-the-stock-market-opens-thursday-nov-18.html</link>
-      <guid isPermaLink="false">106977339</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106977339</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>5 things to know before the stock market opens Thursday</title>
-      <description><![CDATA[U.S. stock futures rose slightly after the government's before-the-bell jobless claims data.]]></description>
-      <pubDate>Thu, 18 Nov 2021 14:06:11 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2021/11/18/bidens-vaccine-mandate-will-likely-go-to-the-supreme-court-heres-how-the-courts-have-ruled-before.html</link>
-      <guid isPermaLink="false">106972973</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106972973</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>Biden's vaccine mandate will likely go to the Supreme Court. Here's how the courts have ruled before</title>
-      <description><![CDATA[The vaccination rules are "unprecedented in scope," but are built on an extensive framework of legal public health and safety regulations, an expert told CNBC.]]></description>
-      <pubDate>Thu, 18 Nov 2021 13:00:49 GMT</pubDate>
+      <title>John Malone says there&apos;s a misguided &apos;land rush&apos; in stocks right now akin to late &apos;90s bubble</title>
+      <description><![CDATA[Liberty Media Chairman John Malone said the sizzling IPO market and soaring equity valuations remind him of the dot-com bubble in the late 1990s.]]></description>
+      <pubDate>Thu, 18 Nov 2021 17:53:55 GMT</pubDate>
     </item>
     <item>
       <link>https://www.cnbc.com/2021/11/18/stocks-making-the-biggest-moves-premarket-alibaba-jdcom-cisco-nvidia-and-more.html</link>
@@ -125,174 +65,104 @@
       <pubDate>Thu, 18 Nov 2021 12:56:29 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/18/fund-manager-explains-why-hes-still-short-tesla-ark-etf-and-facebook.html</link>
-      <guid isPermaLink="false">106977287</guid>
+      <link>https://www.cnbc.com/2021/11/18/many-signs-that-fintech-is-in-a-bubble-jc-flowers-ceo-says.html</link>
+      <guid isPermaLink="false">106977288</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106977287</metadata:id>
+      <metadata:id>106977288</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Fund manager explains why he's still short Tesla, Ark ETF and Facebook</title>
-      <description><![CDATA[David Neuhauser has defended his short positions in Tesla, Facebook and Cathie Wood's Ark Innovation ETF, arguing that all could be vulnerable in a downturn.]]></description>
-      <pubDate>Thu, 18 Nov 2021 12:52:56 GMT</pubDate>
+      <title>There are many signs that fintech is in a bubble, billionaire investor Flowers says</title>
+      <description><![CDATA["It's a mixed bag. There's a lot of fluff out there," J. Christopher Flowers told CNBC.]]></description>
+      <pubDate>Thu, 18 Nov 2021 13:02:34 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/18/kohls-kss-q3-2021-earnings-.html</link>
-      <guid isPermaLink="false">106977300</guid>
+      <link>https://www.cnbc.com/2021/11/18/43percent-of-adults-say-theyve-cheated-on-their-partner-financially.html</link>
+      <guid isPermaLink="false">106976497</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106977300</metadata:id>
+      <metadata:id>106976497</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Kohl's shares jump after retailer reports 16% sales increase as shoppers buy clothes and makeup</title>
-      <description><![CDATA[The department store chain also raised its forecast for the year. ]]></description>
-      <pubDate>Thu, 18 Nov 2021 15:51:58 GMT</pubDate>
+      <title>43% of adults say they have financially cheated on their partner</title>
+      <description><![CDATA[Some 43% of adults with combined finances in a relationship said they've committed an act of financial deception, according to a survey. ]]></description>
+      <pubDate>Thu, 18 Nov 2021 15:05:48 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/18/macys-m-q3-2021-earnings.html</link>
-      <guid isPermaLink="false">106974790</guid>
+      <link>https://www.cnbc.com/2021/11/18/german-digital-bank-n26-to-withdraw-from-the-us.html</link>
+      <guid isPermaLink="false">106977266</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106974790</metadata:id>
+      <metadata:id>106977266</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Macy's shares surge on upbeat earnings, decision to hire AlixPartners to review business</title>
-      <description><![CDATA[Macy's reported third-quarter earnings and sales that topped analysts' expectations, leading the department store chain to raise its full-year forecast. ]]></description>
-      <pubDate>Thu, 18 Nov 2021 15:44:31 GMT</pubDate>
+      <title>Germany&apos;s $9 billion digital bank N26 to withdraw from the U.S.</title>
+      <description><![CDATA[N26's American customers will no longer be able to use its app from Jan. 11, 2022.]]></description>
+      <pubDate>Thu, 18 Nov 2021 13:38:01 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/18/airbus-smashes-orders-at-dubai-air-show-boeing-trails-behind.html</link>
-      <guid isPermaLink="false">106976920</guid>
+      <link>https://www.cnbc.com/2021/11/18/china-evergrande-default-is-highly-likely-sp-says.html</link>
+      <guid isPermaLink="false">106977278</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106976920</metadata:id>
+      <metadata:id>106977278</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Airbus smashes orders at Dubai Air Show, Boeing trails behind despite big 737 Max sale </title>
-      <description><![CDATA[The aircraft order numbers so far from the first major air show since the Covid-19 pandemic began are a positive sign for aviation and travel.]]></description>
-      <pubDate>Thu, 18 Nov 2021 11:32:03 GMT</pubDate>
+      <title>Evergrande default is highly likely, S&amp;P says</title>
+      <description><![CDATA[Highly indebted developer China Evergrande will likely default because the company has essentially lost its main business, S&P Global Ratings analysts said.]]></description>
+      <pubDate>Thu, 18 Nov 2021 11:06:38 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/18/astrazeneca-antibody-drug-83percent-effective-at-preventing-covid-trial.html</link>
-      <guid isPermaLink="false">106977263</guid>
+      <link>https://www.cnbc.com/2021/11/18/criminals-exploit-buy-now-pay-later-services-like-klarna-and-afterpay.html</link>
+      <guid isPermaLink="false">106976601</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106977263</metadata:id>
+      <metadata:id>106976601</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>AstraZeneca's antibody drug over 80% effective at preventing Covid, trial shows</title>
-      <description><![CDATA[AstraZeneca's antibody treatment has been shown to be highly effective at preventing Covid in people who may not respond well to vaccines.]]></description>
-      <pubDate>Thu, 18 Nov 2021 14:50:34 GMT</pubDate>
+      <title>‘Criminals love buy now, pay later’: How fraudsters exploit popular interest-free payment plans</title>
+      <description><![CDATA[Fraudulent activity is on the rise at some of the largest buy now, pay later (BNPL) platforms, according to experts.]]></description>
+      <pubDate>Thu, 18 Nov 2021 23:38:35 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/18/starbucks-opens-pickup-store-with-amazon-go-technology-in-manhattan.html</link>
-      <guid isPermaLink="false">106976721</guid>
+      <link>https://www.cnbc.com/2021/11/18/evergrande-shares-slip-after-striking-a-deal-to-raise-273-million.html</link>
+      <guid isPermaLink="false">106977120</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106976721</metadata:id>
+      <metadata:id>106977120</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Starbucks and Amazon are opening cashierless coffee shop in Manhattan. Take a look inside</title>
-      <description><![CDATA[Starbucks is opening a pick-up cafe in midtown Manhattan with Amazon that uses the retail giant's cashierless technology.]]></description>
-      <pubDate>Thu, 18 Nov 2021 14:31:25 GMT</pubDate>
+      <title>Evergrande shares slip after deal to raise $273 million in a business sale</title>
+      <description><![CDATA[China Evergrande is set to raise about $273 million by selling its remaining shares in film production and streaming company HengTen Networks, a filing said.]]></description>
+      <pubDate>Thu, 18 Nov 2021 08:20:29 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/18/covid-record-breaking-cases-as-europes-latest-wave-takes-hold.html</link>
-      <guid isPermaLink="false">106977220</guid>
+      <link>https://www.cnbc.com/2021/11/17/contrarian-call-suggests-consumers-are-in-trouble-this-holiday-season.html</link>
+      <guid isPermaLink="false">106976985</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106977220</metadata:id>
+      <metadata:id>106976985</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Record high cases, more rules and partial lockdowns: A new Covid wave engulfs Europe</title>
-      <description><![CDATA[The latest wave of Covid cases is hitting Europe with a vengeance.]]></description>
-      <pubDate>Thu, 18 Nov 2021 09:42:43 GMT</pubDate>
+      <title>Contrarian call suggests consumers are in trouble this holiday season</title>
+      <description><![CDATA[The Economic Cycle Research Institute’s Lakshman Achuthan warns consumer spending is in a cyclical slowdown, and it will weigh on holiday sales.]]></description>
+      <pubDate>Wed, 17 Nov 2021 23:55:17 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/18/covid-update-belgium-pm-de-croo-says-he-wants-to-avoid-lockdown.html</link>
-      <guid isPermaLink="false">106976622</guid>
+      <link>https://www.cnbc.com/2021/11/17/stock-market-futures-open-to-close-news.html</link>
+      <guid isPermaLink="false">106976783</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106976622</metadata:id>
+      <metadata:id>106976783</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Belgium announces new Covid restrictions, but prime minister vows to avoid lockdown</title>
-      <description><![CDATA[Belgium is toughening up social restrictions as Covid-19 cases surge, but Prime Minister Alexander de Croo tells CNBC the aim is still to keep society open.]]></description>
-      <pubDate>Thu, 18 Nov 2021 09:03:10 GMT</pubDate>
+      <title>S&amp;P 500 rises in choppy session as Nvidia leads gains in tech shares</title>
+      <description><![CDATA[The S&P 500 gained after after strong earnings results from Nvidia, the world's largest chipmaker by market value, and various retailers.]]></description>
+      <pubDate>Thu, 18 Nov 2021 21:24:09 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/17/cramers-lightning-round-i-prefer-union-pacific-over-csx.html</link>
-      <guid isPermaLink="false">106977118</guid>
+      <link>https://www.cnbc.com/2021/11/17/stocks-making-the-biggest-moves-after-hours-nvidia-cisco-systems-victorias-secret-and-more.html</link>
+      <guid isPermaLink="false">106977023</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106977118</metadata:id>
+      <metadata:id>106977023</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Cramer's lightning round: I prefer Union Pacific over CSX</title>
-      <description><![CDATA["Mad Money" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.]]></description>
-      <pubDate>Thu, 18 Nov 2021 00:33:14 GMT</pubDate>
+      <title>Stocks making the biggest moves after hours: Nvidia, Cisco Systems, Victoria&apos;s Secret and more</title>
+      <description><![CDATA[See which stocks are posting big moves after the bell on Wednesday, November 17. ]]></description>
+      <pubDate>Wed, 17 Nov 2021 21:50:28 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/17/cramers-advice-on-lucid-and-rivian-ev-momentum-trades-take-profits.html</link>
-      <guid isPermaLink="false">106977101</guid>
+      <link>https://www.cnbc.com/2021/11/17/biden-occ-nominee-omarova-set-for-rocky-senate-hearing-as-gop-protests-her-.html</link>
+      <guid isPermaLink="false">106976818</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106977101</metadata:id>
+      <metadata:id>106976818</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Cramer's advice on Lucid and Rivian: Heed lessons from the dot-com bubble and take profits</title>
-      <description><![CDATA["You're playing momentum, not car companies and not technology, and in that case it's better to ring the register early and often," the "Mad Money" host said.]]></description>
-      <pubDate>Thu, 18 Nov 2021 00:32:10 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2021/11/17/heres-why-identity-software-firm-okta-plans-to-open-a-retail-location-in-new-york-city.html</link>
-      <guid isPermaLink="false">106977012</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106977012</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>Here's why identity software firm Okta plans to open a retail location in New York City</title>
-      <description><![CDATA["One of the challenges with identity technology and talking about this vision is sometimes it's hard to imagine," Okta co-founder and CEO Todd McKinnon said.]]></description>
-      <pubDate>Thu, 18 Nov 2021 00:15:28 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2021/11/17/flood-ravaged-british-columbia-declares-state-of-emergency-.html</link>
-      <guid isPermaLink="false">106977082</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106977082</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>Flood-ravaged British Columbia declares state of emergency </title>
-      <description><![CDATA[The flood conditions have cut off transportation routes between the lower mainland of B.C. and the province's interior and left thousands of people stranded.]]></description>
-      <pubDate>Wed, 17 Nov 2021 23:36:50 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2021/11/17/elon-musk-spacex-will-hopefully-launch-starship-flight-in-january.html</link>
-      <guid isPermaLink="false">106976873</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106976873</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>Elon Musk says SpaceX will 'hopefully' launch first orbital Starship flight in January</title>
-      <description><![CDATA[Elon Musk on Wednesday said that SpaceX is "hoping" to launch the first orbital flight test of its mammoth Starship rocket in January.]]></description>
-      <pubDate>Thu, 18 Nov 2021 00:29:39 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2021/11/17/jim-cramer-looking-to-buy-walmart-after-retailers-post-earnings-dip-.html</link>
-      <guid isPermaLink="false">106977086</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106977086</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>Jim Cramer says he’s looking to buy Walmart shares to take advantage of retailer’s post-earnings dip </title>
-      <description><![CDATA[After selling some Walmart at higher levels, CNBC's Jim Cramer said he's "itching to buy some of that stock back because I believe in Walmart's strategy."]]></description>
-      <pubDate>Wed, 17 Nov 2021 23:16:28 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2021/11/17/ceo-of-covid-antibody-maker-vir-biotech-says-their-treatment-stands-up-well-to-all-variants.html</link>
-      <guid isPermaLink="false">106977033</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106977033</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>CEO of Covid antibody maker Vir Biotech says its treatment 'stands up well' to all variants</title>
-      <description><![CDATA[A monoclonal antibody Covid treatment from Vir Biotechnology and GlaxoSmithKline "stands up well" to all variants of the virus, Vir's president and CEO said.]]></description>
-      <pubDate>Thu, 18 Nov 2021 00:07:29 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2021/11/17/house-members-urge-labor-secretary-to-speed-truck-driver-training-to-ease-supply-chain-.html</link>
-      <guid isPermaLink="false">106976974</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106976974</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>House lawmakers urge Labor secretary to speed truck driver training program to ease supply  chain bottlenecks</title>
-      <description><![CDATA[They want Labor Secretary Marty Walsh to fast-track the training of dislocated workers, low-income individuals and unemployed youth.]]></description>
-      <pubDate>Wed, 17 Nov 2021 21:19:13 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2021/11/17/lowes-looks-to-drive-sales-by-helping-baby-boomers-stay-in-their-homes.html</link>
-      <guid isPermaLink="false">106976943</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106976943</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>Lowe's sees sales growth by helping baby boomers stay in their homes</title>
-      <description><![CDATA[The home improvement retailer said it will become a "one-stop shop" for items like grab bars and walk-in bathtubs.]]></description>
-      <pubDate>Wed, 17 Nov 2021 20:24:12 GMT</pubDate>
+      <title>Biden&apos;s pick for bank regulator faces rocky Senate hearing over unorthodox research ideas</title>
+      <description><![CDATA[Saule Omarova, President Joe Biden's choice to lead one of the nation's top bank regulators, is set for a fiery nomination hearing.]]></description>
+      <pubDate>Thu, 18 Nov 2021 01:45:45 GMT</pubDate>
     </item>
     <item>
       <link>https://www.cnbc.com/2021/11/17/retirees-are-unretiring-and-thats-good-for-the-labor-market.html</link>
@@ -305,14 +175,144 @@
       <pubDate>Wed, 17 Nov 2021 19:45:07 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2021/11/17/walmart-and-target-clash-with-investors-over-low-price-strategy-.html</link>
-      <guid isPermaLink="false">106976837</guid>
+      <link>https://www.cnbc.com/2021/11/17/stocks-making-the-biggest-moves-midday-target-rivian-lucid-tjx-visa-and-more-.html</link>
+      <guid isPermaLink="false">106976854</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106976837</metadata:id>
+      <metadata:id>106976854</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Walmart and Target clash with investors over strategy to keep prices low despite inflation</title>
-      <description><![CDATA[Investors are at odds with the discounters over how much of the higher costs of shipping, labor and more should be passed on to customers.]]></description>
-      <pubDate>Wed, 17 Nov 2021 21:10:27 GMT</pubDate>
+      <title>Stocks making the biggest moves midday: Target, Rivian, Lucid, TJX, Visa and more </title>
+      <description><![CDATA[These are the stocks posting the largest moves in midday trading. ]]></description>
+      <pubDate>Wed, 17 Nov 2021 22:31:25 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2021/11/17/dipanjan-deb-ceo-of-top-performing-pe-firm-francisco-partners-on-where-hes-putting-capital.html</link>
+      <guid isPermaLink="false">106976705</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106976705</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Dipanjan Deb, CEO of top-performing PE firm Francisco Partners, on where he&apos;s putting capital</title>
+      <description><![CDATA[Dipanjan 'DJ' Deb, the Co-Founder and CEO of Francisco Partners, revealed what keeps him up at night, despite the firm's outperformance. ]]></description>
+      <pubDate>Wed, 17 Nov 2021 18:16:05 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2021/11/17/ipo-boom-rivian-pushes-value-of-companies-that-went-public-this-year-to-a-record-1-trillion.html</link>
+      <guid isPermaLink="false">106976701</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106976701</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>IPO boom: Rivian pushes value of companies that went public this year to a record $1 trillion</title>
+      <description><![CDATA[Rivian's blockbuster IPO last week pushed the total exit value from U.S. public-market listings this year beyond an unprecedented $1 trillion marker.]]></description>
+      <pubDate>Wed, 17 Nov 2021 16:19:37 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2021/11/17/biden-calls-on-ftc-to-probe-anti-consumer-behavior-by-energy-companies-as-gas-prices-soar.html</link>
+      <guid isPermaLink="false">106976776</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106976776</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Biden calls on FTC to probe anti-consumer behavior by energy companies as gas prices soar</title>
+      <description><![CDATA[The Biden Administration is asking the Federal Trade Commission to investigate "mounting evidence of anti-consumer behavior" by energy companies as gas prices hover at multi-year highs.]]></description>
+      <pubDate>Wed, 17 Nov 2021 16:39:59 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2021/11/17/stocks-making-the-biggest-moves-premarket-lowes-target-glaxosmithkline-and-others.html</link>
+      <guid isPermaLink="false">106976693</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106976693</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Stocks making the biggest moves premarket: Lowe&apos;s, Target, GlaxoSmithKline and others</title>
+      <description><![CDATA[These are the stocks posting the largest moves before the bell.]]></description>
+      <pubDate>Wed, 17 Nov 2021 12:46:30 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2021/11/17/amazon-to-stop-accepting-visa-credit-cards-issued-in-the-uk.html</link>
+      <guid isPermaLink="false">106976626</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106976626</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Amazon to stop accepting Visa credit cards issued in the UK, citing high fees</title>
+      <description><![CDATA[Amazon has told some customers that, from Jan. 19 2022 onward, the company will no longer accept Visa credit cards issued in Britain.]]></description>
+      <pubDate>Wed, 17 Nov 2021 12:30:25 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2021/11/17/ray-dalios-bridgewater-reportedly-raising-millions-for-new-china-fund.html</link>
+      <guid isPermaLink="false">106976549</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106976549</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Ray Dalio&apos;s Bridgewater is reportedly looking to raise $469 million in new China fund</title>
+      <description><![CDATA[American hedge fund manager Ray Dalio is launching a new China fund through a local subsidiary, according to China's Securities Times, citing sources.]]></description>
+      <pubDate>Wed, 17 Nov 2021 03:58:18 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2021/11/16/stock-market-futures-open-to-close-news.html</link>
+      <guid isPermaLink="false">106976461</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106976461</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Stocks slip despite strong retail earnings, Visa drags Dow lower</title>
+      <description><![CDATA[Stocks fell on Wednesday following earnings reports from big-box retailers.]]></description>
+      <pubDate>Wed, 17 Nov 2021 21:29:09 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2021/11/16/child-tax-credit-may-drop-to-1000-from-3600-per-kid-after-2025.html</link>
+      <guid isPermaLink="false">106976272</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106976272</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Child tax credit may plunge to $1,000 from $3,600 per kid after 2025</title>
+      <description><![CDATA[The tax break for parents is poised to revert to its level before the 2017 Tax Cuts and Jobs Act unless Congress intervenes. ]]></description>
+      <pubDate>Tue, 16 Nov 2021 19:09:53 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2021/11/16/stocks-making-the-biggest-moves-midday-home-depot-robinhood-sofi-and-more-.html</link>
+      <guid isPermaLink="false">106976224</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106976224</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Stocks making the biggest moves midday: Home Depot, Robinhood, SoFi and more </title>
+      <description><![CDATA[These are the stocks posting the largest moves in midday trading. ]]></description>
+      <pubDate>Tue, 16 Nov 2021 21:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2021/11/16/blue-prism-stock-surges-on-higher-takeover-offer.html</link>
+      <guid isPermaLink="false">106976202</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106976202</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>UK software firm Blue Prism soars 10% on potential bidding war</title>
+      <description><![CDATA[Shares of Blue Prism surged Tuesday after the British software company received a higher takeover offer from U.S.-based tech firm SS&C Technologies Holdings.]]></description>
+      <pubDate>Tue, 16 Nov 2021 18:21:32 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2021/11/16/same-sex-couples-may-get-tax-break-from-democrat-build-back-better-plan.html</link>
+      <guid isPermaLink="false">106975635</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106975635</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Same-sex couples in certain states may get a tax break from Democrats’ $1.75 trillion social plan</title>
+      <description><![CDATA[The Build Back Better Act would let same-sex married couples in some states file a joint tax return for years before 2010, which might yield a net tax benefit.]]></description>
+      <pubDate>Tue, 16 Nov 2021 20:21:25 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2021/11/16/credit-cards-upgrade-jumps-83percent-in-valuation-to-6point28-billion-after-just-four-months.html</link>
+      <guid isPermaLink="false">106976048</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106976048</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Credit card start-up Upgrade jumps 83% in valuation in just four months to $6.28 billion</title>
+      <description><![CDATA[Upgrade is the latest company to benefit from the "buy now, pay later" trend in fintech.]]></description>
+      <pubDate>Tue, 16 Nov 2021 13:19:59 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2021/11/16/stocks-making-the-biggest-moves-in-the-premarket-rackspace-technology-axon-enterprise-royalty-pharma-and-more.html</link>
+      <guid isPermaLink="false">106976035</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106976035</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Stocks making the biggest moves in the premarket: Rackspace Technology, Axon Enterprise, Royalty Pharma and more</title>
+      <description><![CDATA[The stocks making the biggest moves in premarket trading include Rackspace Technology, Axon Enterprise, Royalty Pharma, and more.]]></description>
+      <pubDate>Tue, 16 Nov 2021 12:43:14 GMT</pubDate>
     </item>
   </channel>
 </rss>

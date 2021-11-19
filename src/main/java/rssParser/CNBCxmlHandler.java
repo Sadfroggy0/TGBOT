@@ -50,17 +50,8 @@ public class CNBCxmlHandler extends DefaultHandler {
 
     @Override
     public void characters(char[] ch, int start, int length) throws SAXException {
-        //String information = new String(ch, start, length);
-
-        /*String s = new String(ch);
-        s = s.replace("\n","").trim();
-        s = s.replace("&amp;","&");
-        s = s.replace("&apos;","'");*/
         String information = new String(ch,start,length);
         information =information.replace("\n", "").trim();
-        information=information.replace("&amp;","&").trim();
-        information=information.replace("&#39;","'").trim();
-        information=information.replace("&apos","'").trim();
 
 
         if (!information.isEmpty()) {
