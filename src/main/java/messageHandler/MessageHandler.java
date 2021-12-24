@@ -39,7 +39,9 @@ public class MessageHandler extends  Bot {
                 execute(message);
                 break;
             case "Subscribe":
-                    DBController.saveSubs(update.getMessage().getChatId().toString());
+                    DBController.saveSubs(update.getMessage().getChatId().toString(),
+                            update.getMessage().getFrom().getUserName(),
+                            update.getMessage().getFrom().getFirstName());
 
                 break;
             case "Unsub":

@@ -25,10 +25,10 @@ public class DBController {
         }
     }
 
-    public static void saveSubs(String id){
+    public static void saveSubs(String id, String username, String firstname){
         try {
             Statement statement = connection.createStatement();
-            String SQL = "INSERT INTO subscribers VALUES('" + id+ "')";
+            String SQL = "INSERT INTO subscribers VALUES('" + id+ "', '"+ username+"','"+firstname+"')";
             statement.executeUpdate(SQL);
             Mailing.subs.add(id);
             MessageHandler messageHandler = new MessageHandler();

@@ -1,13 +1,8 @@
 package rssParser;
 
-import com.google.common.html.HtmlEscapers;
-import org.jsoup.Jsoup;
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
-
-import java.util.Base64;
-
 
 public class CNBCxmlHandler extends DefaultHandler {
     private String lastElementName, link, title,description, pubDate;
