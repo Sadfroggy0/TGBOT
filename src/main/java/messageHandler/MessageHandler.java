@@ -60,6 +60,28 @@ public class MessageHandler extends  Bot {
 
 
     }
+
+    public  void subscription(String id){
+        SendMessage subException = new SendMessage();
+        subException.setChatId(id);
+        subException.setText("Thank you for the subscription!");
+        try {
+            execute(subException);
+        } catch (TelegramApiException e) {
+            e.printStackTrace();
+        }
+    }
+    public  void unsub(String id){
+        SendMessage subException = new SendMessage();
+        subException.setChatId(id);
+        subException.setText( "You are unsubscribed now!");
+        try {
+            execute(subException);
+        } catch (TelegramApiException e) {
+            e.printStackTrace();
+        }
+
+    }
     public  void subDeleteExceptionExecution(String id){
         SendMessage subException = new SendMessage();
         subException.setChatId(id);
@@ -101,16 +123,7 @@ public class MessageHandler extends  Bot {
             }
             Mailing.mailingNews.clear();
         }
-        /*for (int i=0;i<Mailing.subs.size();i++ ) {
-            mailingMessage = new SendMessage();
-            mailingMessage.setChatId(Mailing.subs.get(i));
-            mailingMessage.setText("ALABADABU");
-            try {
-                execute(mailingMessage);
-            } catch (TelegramApiException e) {
-                e.printStackTrace();
-            }
-        }*/
+
 
     }
     private void newsOutput(SendMessage mes, int index){
@@ -120,7 +133,7 @@ public class MessageHandler extends  Bot {
             e.printStackTrace();
         }
         for (int i = 1; i< News.newsList.size(); i++){
-            DBController.save(News.newsList.get(i),index);
+             DBController.save(News.newsList.get(i),index);
              mes.setText(News.newsList.get(i).getPubDate()+"\n"+
                     News.newsList.get(i).getTitle()+"\n"+
                     //RssParser.news.get(i).getDescription()+"\n"+

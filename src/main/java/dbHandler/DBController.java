@@ -31,6 +31,8 @@ public class DBController {
             String SQL = "INSERT INTO subscribers VALUES('" + id+ "')";
             statement.executeUpdate(SQL);
             Mailing.subs.add(id);
+            MessageHandler messageHandler = new MessageHandler();
+            messageHandler.subscription(id);
         }
         catch (SQLException throwables){
             throwables.printStackTrace();
@@ -45,6 +47,8 @@ public class DBController {
             String SQL = "DELETE FROM subscribers WHERE id='"+id+"'";
             statement.executeUpdate(SQL);
             Mailing.subs.add(id);
+            MessageHandler messageHandler = new MessageHandler();
+            messageHandler.unsub(id);
         }
         catch (SQLException throwables) {
              throwables.printStackTrace();
@@ -138,7 +142,6 @@ public class DBController {
             throwables.printStackTrace();
         }
         return list;
-
     }
 
 
