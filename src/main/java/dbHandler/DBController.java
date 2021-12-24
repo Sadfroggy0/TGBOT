@@ -115,7 +115,6 @@ public class DBController {
         }
     }
 
-
     public static ArrayList<String> getAll(int index){
         ArrayList<String>list = new ArrayList<>();
         try {

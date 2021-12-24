@@ -10,10 +10,20 @@
       <subtype>section</subtype>
       <seo>https://www.cnbc.com/finance/</seo>
     </feed_asset>
-    <lastBuildDate>Thu, 23 Dec 2021 18:18 GMT</lastBuildDate>
-    <pubDate>Thu, 23 Dec 2021 18:18 GMT</pubDate>
+    <lastBuildDate>Fri, 24 Dec 2021 06:59 GMT</lastBuildDate>
+    <pubDate>Fri, 24 Dec 2021 06:59 GMT</pubDate>
     <link>https://www.cnbc.com/finance/</link>
     <description><![CDATA[Latest investing news and finance headlines straight from Wall Street.]]></description>
+    <item>
+      <link>https://www.cnbc.com/2021/12/24/europe-stock-markets-investors-monitor-omicron-developments.html</link>
+      <guid isPermaLink="false">106993604</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106993604</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>European markets finish mixed ahead of the holiday weekend</title>
+      <description><![CDATA[European markets ended the day mixed after a thin trading session on Christmas Eve.]]></description>
+      <pubDate>Fri, 24 Dec 2021 13:40:23 GMT</pubDate>
+    </item>
     <item>
       <link>https://www.cnbc.com/2021/12/23/stocks-making-the-biggest-moves-midday-nikola-las-vegas-sands-stitch-fix-crocs-and-more.html</link>
       <guid isPermaLink="false">106993261</guid>
@@ -71,8 +81,8 @@
       <metadata:id>106993111</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
       <title>European stocks rise on signs of hope about omicron</title>
-      <description><![CDATA[European stocks finished slightly higher Thursday as traders looked to signs that the coronavirus omicron variant is not as severe as previously feared.]]></description>
-      <pubDate>Thu, 23 Dec 2021 17:21:36 GMT</pubDate>
+      <description><![CDATA[European stocks finished higher Thursday as traders looked to signs that the coronavirus omicron variant is not as severe as previously feared.]]></description>
+      <pubDate>Fri, 24 Dec 2021 05:54:20 GMT</pubDate>
     </item>
     <item>
       <link>https://www.cnbc.com/2021/12/22/stock-market-futures-open-to-close-news.html</link>
@@ -303,16 +313,6 @@
       <title>JPMorgan hit with $200 million in fines for letting employees use WhatsApp to evade regulators&apos; reach</title>
       <description><![CDATA[Regulators announced Friday that JPMorgan Securities admitted to bookkeeping failures and agreed to pay $200 million to settle the charges.]]></description>
       <pubDate>Fri, 17 Dec 2021 23:32:02 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2021/12/17/stocks-making-the-biggest-moves-premarket-darden-restaurants-winnebago-fedex-and-others.html</link>
-      <guid isPermaLink="false">106990814</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106990814</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>Stocks making the biggest moves premarket: Darden Restaurants, Winnebago, FedEx and others</title>
-      <description><![CDATA[These are the stocks posting the largest moves before the bell.]]></description>
-      <pubDate>Fri, 17 Dec 2021 12:52:46 GMT</pubDate>
     </item>
   </channel>
 </rss>
