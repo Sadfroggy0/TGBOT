@@ -1,7 +1,5 @@
 package mailing;
 
-import dbHandler.DBController;
-import messageHandler.MessageHandler;
 import rssParser.News;
 
 

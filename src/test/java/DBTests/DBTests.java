@@ -10,13 +10,15 @@ import java.util.ArrayList;
 public class DBTests {
     @Test
     public void GetSubsTest(){
+
         Assert.assertEquals(ArrayList.class, DBController.getSubs().getClass());
-    }
-    @Test
-    public void GetSubTest(){
         ArrayList<String> arrayList =DBController.getSubs();
         String id = arrayList.get(0);
         Assert.assertEquals("337850598",id);
+    }
+    @Test
+    public void GetSubTest(){
+
 
     }
 }
