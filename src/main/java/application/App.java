@@ -16,9 +16,7 @@ import java.util.TimerTask;
 import javafx.application.Application;
 
 public class App extends javafx.application.Application {
-
-    @Override
-    public void start(Stage primaryStage) throws Exception {
+    public static void main(String[] args) {
         Timer timer = new Timer();
         timer.schedule(new TimerTask() {
             @Override
@@ -49,6 +47,11 @@ public class App extends javafx.application.Application {
         } catch (TelegramApiException e) {
             e.printStackTrace();
         }
+
+    }
+
+    @Override
+    public void start(Stage primaryStage) throws Exception {
 
     }
 }

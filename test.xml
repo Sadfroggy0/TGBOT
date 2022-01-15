@@ -1,318 +1,318 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:metadata="http://search.cnbc.com/rss/2.0/modules/siteContentMetadata" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <atom:link rel="self" type="application/rss+xml" href="https://www.cnbc.com/id/10001147/device/rss/rss.html"/>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.cnbc.com/id/15839135/device/rss/rss.html"/>
     <language>en-us</language>
     <ttl>60</ttl>
-    <title>Business News</title>
+    <title>Earnings</title>
     <feed_asset>
-      <id>10001147</id>
+      <id>15839135</id>
       <type>franchise</type>
       <subtype>section</subtype>
-      <seo>https://www.cnbc.com/business/</seo>
+      <seo>https://www.cnbc.com/earnings/</seo>
     </feed_asset>
-    <lastBuildDate>Sat, 15 Jan 2022 00:39 GMT</lastBuildDate>
-    <pubDate>Sat, 15 Jan 2022 00:39 GMT</pubDate>
-    <link>https://www.cnbc.com/business/</link>
-    <description><![CDATA[Latest headlines for business news around the world. ]]></description>
+    <lastBuildDate>Fri, 14 Jan 2022 13:05 GMT</lastBuildDate>
+    <pubDate>Fri, 14 Jan 2022 13:05 GMT</pubDate>
+    <link>https://www.cnbc.com/earnings/</link>
+    <description><![CDATA[Corporate Company Earnings, Find Earnings Per Share and Earnings History Online]]></description>
     <item>
-      <link>https://www.cnbc.com/2022/01/14/a-new-labor-battle-opens-on-broadway-as-omicron-closes-shows.html</link>
-      <guid isPermaLink="false">107001735</guid>
+      <link>https://www.cnbc.com/2022/01/14/wells-fargo-wfc-earnings-q4-2021.html</link>
+      <guid isPermaLink="false">107000917</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107001735</metadata:id>
+      <metadata:id>107000917</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>A new labor battle opens on Broadway as omicron closes theater shows</title>
-      <description><![CDATA[Broadway producer Keven McCollum closed 'Mrs. Doubtfire' with a plan to return in the spring, he says, to save the show, but theater unions are skeptical.]]></description>
-      <pubDate>Sat, 15 Jan 2022 01:42:40 GMT</pubDate>
+      <title>Wells Fargo&apos;s fourth-quarter revenue tops estimate, profit jumps</title>
+      <description><![CDATA[The fourth biggest U.S. bank by assets posted quarterly revenue that exceeded analysts' expectations. ]]></description>
+      <pubDate>Fri, 14 Jan 2022 21:00:41 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/14/labor-department-vows-to-protect-workers-from-covid-after-mandate-blocked.html</link>
-      <guid isPermaLink="false">107001509</guid>
+      <link>https://www.cnbc.com/2022/01/14/citigroup-c-q4-2021-earnings.html</link>
+      <guid isPermaLink="false">107000662</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107001509</metadata:id>
+      <metadata:id>107000662</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Labor Department vows to protect workers from Covid after Supreme Court blocks business vaccine mandate</title>
-      <description><![CDATA[Unions are calling for the Labor Department to implement improved ventilation, physical distancing and masking in workplaces.]]></description>
-      <pubDate>Fri, 14 Jan 2022 21:43:53 GMT</pubDate>
+      <title>Citigroup shares slide after fourth-quarter profit declines 26%</title>
+      <description><![CDATA[Citigroup shares were under pressure Friday after the banking giant reported a steep profit drop for the fourth quarter. ]]></description>
+      <pubDate>Fri, 14 Jan 2022 21:02:32 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/14/thieves-find-new-source-for-stolen-goods-delivery-trucks-and-trains-.html</link>
-      <guid isPermaLink="false">107001637</guid>
+      <link>https://www.cnbc.com/2022/01/14/jpm-earnings-4q-2021.html</link>
+      <guid isPermaLink="false">107000165</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107001637</metadata:id>
+      <metadata:id>107000165</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Thieves target another source for stolen goods: Delivery trucks and trains full of packages</title>
-      <description><![CDATA[Major retailers, including Target and Best Buy, have spoken out about organized thefts and urged Congress to make it harder for criminals to sell stolen goods.]]></description>
-      <pubDate>Sat, 15 Jan 2022 01:13:27 GMT</pubDate>
+      <title>JPMorgan shares fall 6% after CFO lowers guidance on &apos;headwinds’ including wage inflation</title>
+      <description><![CDATA[The bank's CFO issued guidance Friday, saying he expected "headwinds" of higher expenses and moderating Wall Street revenue to cause returns to dip. ]]></description>
+      <pubDate>Fri, 14 Jan 2022 21:02:12 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/14/new-york-covid-numbers-are-finally-trending-down-gov-hochul-says.html</link>
-      <guid isPermaLink="false">107001681</guid>
+      <link>https://www.cnbc.com/2022/01/13/delta-air-lines-dal-earnings-4q-21.html</link>
+      <guid isPermaLink="false">107000037</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107001681</metadata:id>
+      <metadata:id>107000037</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>New York Covid numbers are finally trending down, Gov. Hochul says</title>
-      <description><![CDATA["There will come a time when we can say it's all over," Hochul said of Covid "We're not there yet, but boy, it's on the horizon."]]></description>
-      <pubDate>Fri, 14 Jan 2022 22:51:04 GMT</pubDate>
+      <title>Delta keeps 2022 profit forecast on travel rebound despite omicron</title>
+      <description><![CDATA[Delta expects travel to recover this spring after cases of the omicron variant peak.]]></description>
+      <pubDate>Thu, 13 Jan 2022 21:36:33 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/14/ge-suspends-covid-vaccine-and-testing-rules-after-supreme-court-blocks-biden-mandate.html</link>
-      <guid isPermaLink="false">107001589</guid>
+      <link>https://www.cnbc.com/2022/01/10/apple-chipmaker-tsmc-notches-another-quarterly-sales-record.html</link>
+      <guid isPermaLink="false">106998771</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107001589</metadata:id>
+      <metadata:id>106998771</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>GE suspends Covid vaccine and testing rules after Supreme Court blocks Biden mandate</title>
-      <description><![CDATA[President Joe Biden said he would urge businesses to implement the rules voluntarily. ]]></description>
-      <pubDate>Fri, 14 Jan 2022 19:32:08 GMT</pubDate>
+      <title>Apple chipmaker TSMC notches another quarterly sales record on strong demand</title>
+      <description><![CDATA[TSMC, which makes chips for companies like Apple, reported a sixth straight quarter of record sales as demand for its products rose amid a supply crunch.]]></description>
+      <pubDate>Tue, 11 Jan 2022 19:32:06 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/14/retail-industry-presses-ahead-with-conference-tries-to-nudge-normalcy.html</link>
-      <guid isPermaLink="false">107001405</guid>
+      <link>https://www.cnbc.com/2022/01/06/bed-bath-beyond-bbby-q3-2021-earnings.html</link>
+      <guid isPermaLink="false">106995825</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107001405</metadata:id>
+      <metadata:id>106995825</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Retail industry presses ahead with conference, tries to nudge Americans toward normalcy </title>
-      <description><![CDATA[The National Retail Federation said it will take extra precautions, including handing out N95 masks and at-home Covid tests.]]></description>
-      <pubDate>Sat, 15 Jan 2022 01:43:42 GMT</pubDate>
+      <title>Bed Bath &amp; Beyond&apos;s supply chain issues hammered results. Its stock is up anyway</title>
+      <description><![CDATA[Bed Bath & Beyond CEO Mark Tritton said a lack of inventory due to supply chain bottlenecks cost the retailer about $100 million. ]]></description>
+      <pubDate>Thu, 06 Jan 2022 21:05:11 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/14/russia-ukraine-talks-how-us-economic-sanctions-work.html</link>
-      <guid isPermaLink="false">107000677</guid>
+      <link>https://www.cnbc.com/2022/01/06/walgreens-boots-alliance-wba-q1-2022-earnings.html</link>
+      <guid isPermaLink="false">106997169</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107000677</metadata:id>
+      <metadata:id>106997169</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>The U.S. hopes the threat of harsh sanctions deters a Russian invasion of Ukraine—Here&apos;s how they work</title>
-      <description><![CDATA[Russia is amassing troops on its border with Ukraine. The U.S. and its allies plan to use economic sanctions to deter an invasion. Here's how they work.]]></description>
-      <pubDate>Fri, 14 Jan 2022 18:30:35 GMT</pubDate>
+      <title>Walgreens shares give up gains after company warns of rising labor costs to keep up with Covid vaccines and tests</title>
+      <description><![CDATA[Walgreens said it administered 15.6 million Covid vaccines in the latest quarter — bringing its total to more than 56 million to date.]]></description>
+      <pubDate>Thu, 06 Jan 2022 21:06:03 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/14/biden-administration-threatens-to-claw-back-covid-funds-from-arizona-over-school-anti-mask-policies.html</link>
-      <guid isPermaLink="false">107001548</guid>
+      <link>https://www.cnbc.com/2021/12/20/nike-nke-q2-2022-earnings.html</link>
+      <guid isPermaLink="false">106988157</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107001548</metadata:id>
+      <metadata:id>106988157</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Biden administration threatens to claw back Covid funds from Arizona over school anti-mask policies</title>
-      <description><![CDATA[GOP Gov. Doug Ducey has 60 days to change the disputed programs or the Biden administration may take back that Covid stimulus money, Treasury said.]]></description>
-      <pubDate>Fri, 14 Jan 2022 20:12:26 GMT</pubDate>
+      <title>Nike shares rise as earnings, sales top estimates, fueled by strong North American demand</title>
+      <description><![CDATA[Nike CEO John Donahoe said the retailer is in a "much stronger competitive position" than it was pre-pandemic. ]]></description>
+      <pubDate>Mon, 20 Dec 2021 23:29:17 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/14/united-brings-back-airport-vaccines-for-employee-boosters-as-omicron-spreads.html</link>
-      <guid isPermaLink="false">107000916</guid>
+      <link>https://www.cnbc.com/2021/12/17/darden-restaurants-dri-q2-2022-earnings.html</link>
+      <guid isPermaLink="false">106990792</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107000916</metadata:id>
+      <metadata:id>106990792</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>United brings back airport vaccines for employee boosters as omicron spreads</title>
-      <description><![CDATA[United has started offering staff vaccines in airports again as the omicron wave sweeps through crews.]]></description>
-      <pubDate>Fri, 14 Jan 2022 16:21:12 GMT</pubDate>
+      <title>Darden shares fall as CEO announces plans to retire; Olive Garden parent raises forecast despite planned wage hike</title>
+      <description><![CDATA[Olive Garden parent Darden Restaurants announced that CEO Gene Lee will retire May 29. ]]></description>
+      <pubDate>Fri, 17 Dec 2021 14:47:00 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/14/bill-ford-is-doubling-down-on-ford-shares-and-amassing-more-control-of-the-company.html</link>
-      <guid isPermaLink="false">106988619</guid>
+      <link>https://www.cnbc.com/2021/12/16/adobe-plunges-10percent-and-heads-for-second-worst-day-in-past-decade-.html</link>
+      <guid isPermaLink="false">106990435</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106988619</metadata:id>
+      <metadata:id>106990435</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Bill Ford is doubling down on Ford shares, and quietly amassing more control of his great-grandfather&apos;s company in the process</title>
-      <description><![CDATA[The decision to purchase the shares bucks a recent trend by CEOs and corporate insiders who sold a record $69 billion in stock in 2021.]]></description>
-      <pubDate>Fri, 14 Jan 2022 14:50:38 GMT</pubDate>
+      <title>Adobe plunges 10% and has second-worst day in past decade on weak guidance</title>
+      <description><![CDATA[Adobe's guidance for its fiscal first quarter badly missed analysts' estimates, sending the stock down more than 10%.]]></description>
+      <pubDate>Thu, 16 Dec 2021 21:19:17 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/14/one-of-worlds-biggest-offshore-wind-farms-gears-up-for-full-operation.html</link>
-      <guid isPermaLink="false">107001410</guid>
+      <link>https://www.cnbc.com/2021/12/15/lowes-shares-fall-on-concerns-of-slowing-home-improvement-appetite.html</link>
+      <guid isPermaLink="false">106989163</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107001410</metadata:id>
+      <metadata:id>106989163</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>One of the world&apos;s biggest offshore wind farms gears up for full operations</title>
-      <description><![CDATA[The North Sea, where Triton Knoll is located, is home to a number of large-scale offshore wind facilities.]]></description>
-      <pubDate>Fri, 14 Jan 2022 16:48:00 GMT</pubDate>
+      <title>Lowe&apos;s says pandemic-fueled home improvement demand could cool in year ahead</title>
+      <description><![CDATA[During an analyst meeting, Lowe's Chief Financial Officer Dave Denton said the retailer is preparing for a "modest sector pullback in 2022."]]></description>
+      <pubDate>Wed, 15 Dec 2021 23:52:00 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/14/heres-the-full-list-of-the-best-selling-electric-cars-in-china-for-2021.html</link>
-      <guid isPermaLink="false">107001179</guid>
+      <link>https://www.cnbc.com/2021/12/09/lululemon-lulu-q3-2021-earnings.html</link>
+      <guid isPermaLink="false">106982959</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107001179</metadata:id>
+      <metadata:id>106982959</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Here&apos;s the full list of the best-selling electric cars in China for 2021</title>
-      <description><![CDATA[Tesla and BYD remained market leaders in China's electric car market last year, while new competitors emerged, according to the China Passenger Car Association.]]></description>
-      <pubDate>Fri, 14 Jan 2022 08:23:31 GMT</pubDate>
+      <title>Lululemon earnings top estimates, but shares fall after retailer cuts forecast for Mirror sales</title>
+      <description><![CDATA[Lululemon's stock gave up gains Thursday after the company slashed its sales expectations for Mirror, the at-home fitness device it acquired last year. ]]></description>
+      <pubDate>Thu, 09 Dec 2021 22:31:25 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/14/australia-cancels-novak-djokovics-visa-for-the-second-time.html</link>
-      <guid isPermaLink="false">107001331</guid>
+      <link>https://www.cnbc.com/2021/12/09/oracle-orcl-earnings-q2-2022.html</link>
+      <guid isPermaLink="false">106987367</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107001331</metadata:id>
+      <metadata:id>106987367</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Australia cancels Novak Djokovic&apos;s visa for the second time</title>
-      <description><![CDATA[Tennis star Novak Djokovic has had his visa canceled once again ahead of the Australian Open as the furor over his vaccination status intensifies.]]></description>
-      <pubDate>Fri, 14 Jan 2022 13:55:22 GMT</pubDate>
+      <title>Oracle swings to loss because of payment tied to dispute over former CEO Hurd&apos;s employment</title>
+      <description><![CDATA[Oracle's results were clouded by a payment tied to the employment of Mark Hurd, previously co-CEO of the database software maker with current CEO Safra Catz.]]></description>
+      <pubDate>Thu, 09 Dec 2021 23:03:01 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/14/5-things-to-know-before-the-stock-market-opens-friday-jan-14.html</link>
-      <guid isPermaLink="false">107001400</guid>
+      <link>https://www.cnbc.com/2021/12/08/gamestop-gme-3q-2021-earnings.html</link>
+      <guid isPermaLink="false">106985085</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107001400</metadata:id>
+      <metadata:id>106985085</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>5 things to know before the stock market opens Friday</title>
-      <description><![CDATA[U.S. stock futures accelerated to the downside Friday after Dow stock JPMorgan dropped and retail sales disappointed.]]></description>
-      <pubDate>Fri, 14 Jan 2022 14:06:08 GMT</pubDate>
+      <title>GameStop shares fall as video game retailer reports widening losses in third quarter</title>
+      <description><![CDATA[GameStop shares fell after the video game retailer reported that its losses widened in the fiscal third quarter.]]></description>
+      <pubDate>Wed, 08 Dec 2021 23:30:42 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/14/india-covid-third-wave-is-expected-to-slow-near-term-economic-growth-.html</link>
-      <guid isPermaLink="false">107000403</guid>
+      <link>https://www.cnbc.com/2021/12/08/rent-the-runway-rent-q3-2021-earnings-.html</link>
+      <guid isPermaLink="false">106982958</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107000403</metadata:id>
+      <metadata:id>106982958</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>India&apos;s third wave of Covid infections is expected to blunt growth in the near term</title>
-      <description><![CDATA[But the overall economic impact of the third wave of infections is expected to be less severe and less disruptive compared to the previous two waves. ]]></description>
-      <pubDate>Fri, 14 Jan 2022 00:56:18 GMT</pubDate>
+      <title>Rent the Runway posts widening losses, as subscribers have yet to return to pre-pandemic levels</title>
+      <description><![CDATA[Rent the Runway booked a wider fiscal third-quarter loss compared with 2020, as its sales shot up 66% year over year. ]]></description>
+      <pubDate>Thu, 09 Dec 2021 13:26:36 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/14/stocks-making-the-biggest-moves-premarket-blackrock-wells-fargo-sherwin-williams.html</link>
-      <guid isPermaLink="false">107001406</guid>
+      <link>https://www.cnbc.com/2021/12/07/stitch-fix-sfix-q1-2022-earnings.html</link>
+      <guid isPermaLink="false">106982957</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107001406</metadata:id>
+      <metadata:id>106982957</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Stocks making the biggest moves premarket: BlackRock, Wells Fargo, Sherwin-Williams</title>
-      <description><![CDATA[These are the stocks posting the largest moves before the bell.]]></description>
-      <pubDate>Fri, 14 Jan 2022 12:49:34 GMT</pubDate>
+      <title>Stitch Fix shares crater as retailer cuts forecast, despite topping earnings estimates</title>
+      <description><![CDATA[Stitch Fix cut its revenue outlook for the fiscal year, saying that it faces ongoing supply chain pressures and is in a transition period for bringing on users.]]></description>
+      <pubDate>Tue, 07 Dec 2021 22:28:59 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/14/retail-sales-december-2021.html</link>
-      <guid isPermaLink="false">107001446</guid>
+      <link>https://www.cnbc.com/2021/12/06/mongodb-shares-jump-as-revenue-growth-accelerates.html</link>
+      <guid isPermaLink="false">106985208</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107001446</metadata:id>
+      <metadata:id>106985208</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Retail sales dropped 1.9% in December as higher prices caused consumers to curb spending</title>
-      <description><![CDATA[The advance monthly sales report to close out the year showed a decline of 1.9%, considerably worse than the Dow Jones estimate for just a 0.1% drop.]]></description>
-      <pubDate>Fri, 14 Jan 2022 18:18:56 GMT</pubDate>
+      <title>MongoDB shares jump as revenue growth accelerates</title>
+      <description><![CDATA[While MongoDB continues to spend heavily in a competitive market, it's raising expectations for the quarter ahead.]]></description>
+      <pubDate>Mon, 06 Dec 2021 23:50:08 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/13/supreme-court-vaccine-ruling-wont-bar-companies-from-demanding-covid-shots.html</link>
-      <guid isPermaLink="false">107000998</guid>
+      <link>https://www.cnbc.com/2021/12/02/docusign-docu-plunges-almost-30percent-after-q3-earnings.html</link>
+      <guid isPermaLink="false">106983867</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107000998</metadata:id>
+      <metadata:id>106983867</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Supreme Court vaccine mandate ruling won&apos;t bar companies from demanding Covid shots for workers — Biden vows to advocate for that</title>
-      <description><![CDATA[President Biden urged companies to voluntarily impose Covid vaccination rules on workers after the Supreme Court blocked a government order to do that.]]></description>
-      <pubDate>Fri, 14 Jan 2022 02:06:08 GMT</pubDate>
+      <title>DocuSign plunges almost 30% after e-signature company issues weak fourth-quarter guidance</title>
+      <description><![CDATA[DocuSign lost more than a quarter of its value after hours on Thursday following a disappointing forecast for the end of the year.]]></description>
+      <pubDate>Thu, 02 Dec 2021 22:58:56 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/13/why-used-car-prices-are-pushing-inflation-higher.html</link>
-      <guid isPermaLink="false">107000855</guid>
+      <link>https://www.cnbc.com/2021/12/02/signet-jewelers-sig-q3-2021-earnings.html</link>
+      <guid isPermaLink="false">106983443</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107000855</metadata:id>
+      <metadata:id>106983443</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Soaring used car prices are pushing inflation higher, and there&apos;s not much the U.S. can do about it</title>
-      <description><![CDATA[The potential upside for President Biden is that inflation is expected to moderate organically and as the Fed looks to raise interest rates this year.]]></description>
-      <pubDate>Fri, 14 Jan 2022 02:04:23 GMT</pubDate>
+      <title>Kay Jewelers parent Signet shares down as investors fear retailer will have trouble sustaining strong growth </title>
+      <description><![CDATA[Amid ongoing global supply chain issues, Signet CEO Virginia Drosos said the retailer secured its holiday merchandise early this year. ]]></description>
+      <pubDate>Thu, 02 Dec 2021 15:53:21 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/13/scream-looks-to-draw-in-young-horror-fans-jumpstarting-2022-box-office-.html</link>
-      <guid isPermaLink="false">107000665</guid>
+      <link>https://www.cnbc.com/2021/12/02/dollar-general-to-open-1000-popshelf-stores-aimed-at-wealthier-shoppers.html</link>
+      <guid isPermaLink="false">106982808</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107000665</metadata:id>
+      <metadata:id>106982808</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>&apos;Scream&apos; looks to draw in young horror fans and jumpstart 2022 box office </title>
-      <description><![CDATA[The fifth installment of the "Scream" franchise is projected to tally between $25 million and $30 million in U.S. ticket sales this weekend, Comscore said. ]]></description>
-      <pubDate>Fri, 14 Jan 2022 19:06:24 GMT</pubDate>
+      <title>Dollar General tested a store for wealthier shoppers. Now, it will grow to 1,000 locations</title>
+      <description><![CDATA[Dollar General plans to expand its Popshelf chain to about 1,000 locations. The new format helps the discounter attract suburban customers and drive up profits.]]></description>
+      <pubDate>Thu, 02 Dec 2021 15:28:01 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/13/mastercard-ceo-says-spending-trends-look-relatively-positive-in-2022-.html</link>
-      <guid isPermaLink="false">107000964</guid>
+      <link>https://www.cnbc.com/2021/12/01/snowflake-snow-earnings-q3-2022.html</link>
+      <guid isPermaLink="false">106983194</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107000964</metadata:id>
+      <metadata:id>106983194</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Mastercard CEO says spending trends look ‘relatively positive’ so far in 2022 after strong holiday</title>
-      <description><![CDATA["We're coming with a momentum of the holiday season into the new year and trends continue to look relatively positive," Mastercard CEO Michael Miebach said.]]></description>
-      <pubDate>Thu, 13 Jan 2022 21:12:32 GMT</pubDate>
+      <title>Snowflake stock soars on strong revenue and Q4 guidance</title>
+      <description><![CDATA[Shares of Snowflake were up more than 13% after it surpassed analyst expectations for third-quarter revenue and provided strong product revenue guidance.]]></description>
+      <pubDate>Wed, 01 Dec 2021 22:14:19 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/13/supreme-court-ruling-biden-covid-vaccine-mandates.html</link>
-      <guid isPermaLink="false">106998892</guid>
+      <link>https://www.cnbc.com/2021/11/30/salesforce-crm-q3-2022-earnings-.html</link>
+      <guid isPermaLink="false">106981736</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106998892</metadata:id>
+      <metadata:id>106981736</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Supreme Court blocks Biden Covid vaccine mandate for businesses, allows health-care worker rule</title>
-      <description><![CDATA[The Supreme Court ruled against the Biden administration's rule for OSHA, saying it did not have the power to require vaccination for millions of Americans.]]></description>
-      <pubDate>Fri, 14 Jan 2022 01:39:24 GMT</pubDate>
+      <title>Salesforce fourth quarter guidance misses Wall Street expectations</title>
+      <description><![CDATA[Salesforce said earnings per share for the December quarter would be between 72 and 73 cents, lower than Refinitiv analyst expectations of 81 cents.]]></description>
+      <pubDate>Tue, 30 Nov 2021 23:56:02 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/13/biden-says-us-to-provide-high-quality-masks-for-free-to-americans.html</link>
-      <guid isPermaLink="false">107000706</guid>
+      <link>https://www.cnbc.com/2021/11/30/allbirds-bird-reports-q3-2021-earnings.html</link>
+      <guid isPermaLink="false">106981265</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107000706</metadata:id>
+      <metadata:id>106981265</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Biden says U.S. to provide high-quality masks for free to Americans</title>
-      <description><![CDATA[President Joe Biden said the White House next week will announce how it is providing high-quality masks to Americans for free.]]></description>
-      <pubDate>Thu, 13 Jan 2022 19:58:49 GMT</pubDate>
+      <title>Eco-friendly shoemaker Allbirds posts wider loss despite 33% gain in quarterly sales; shares fall</title>
+      <description><![CDATA[Allbirds' losses widened as the cost of opening stores and listing its stock weighed on its results. ]]></description>
+      <pubDate>Tue, 30 Nov 2021 23:40:46 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/13/stocks-making-the-biggest-moves-midday-ford-snap-virgin-galactic-and-more.html</link>
-      <guid isPermaLink="false">107000765</guid>
+      <link>https://www.cnbc.com/2021/11/23/gap-gps-q3-2021-earnings.html</link>
+      <guid isPermaLink="false">106979540</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107000765</metadata:id>
+      <metadata:id>106979540</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Stocks making the biggest moves midday: Ford, Snap, Virgin Galactic and more</title>
-      <description><![CDATA[These are the stocks posting the largest moves in midday trading. ]]></description>
-      <pubDate>Thu, 13 Jan 2022 21:03:53 GMT</pubDate>
+      <title>Gap shares crater 15% after retailer sees millions in lost sales from delayed product shipments, cuts its forecast</title>
+      <description><![CDATA[Gap Inc. on Tuesday slashed its full-year outlook due to supply chain complications that put a damper on its third-quarter sales and took a bite out of profits.]]></description>
+      <pubDate>Tue, 23 Nov 2021 23:33:19 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/13/fords-market-cap-tops-100-billion-for-first-time-ever.html</link>
-      <guid isPermaLink="false">107000705</guid>
+      <link>https://www.cnbc.com/2021/11/23/nordstrom-jwn-q3-2021.html</link>
+      <guid isPermaLink="false">106979246</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107000705</metadata:id>
+      <metadata:id>106979246</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Ford&apos;s market cap tops $100 billion for first time ever</title>
-      <description><![CDATA[Ford shares were up by as much as 5.7% to $25.87, continuing a more than 20-year high for the automaker's stock price. ]]></description>
-      <pubDate>Fri, 14 Jan 2022 00:13:18 GMT</pubDate>
+      <title>Nordstrom shares tumble more than 20% as earnings fall short, hurt by higher labor costs, weak Nordstrom Rack sales </title>
+      <description><![CDATA[Nordstrom earnings fell short of analysts' expectations as labor costs ate into profits and sales struggled to return to pre-pandemic levels. ]]></description>
+      <pubDate>Tue, 23 Nov 2021 23:39:43 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/13/green-fuels-more-expensive-but-need-to-think-long-term-maersk-ceo.html</link>
-      <guid isPermaLink="false">107000576</guid>
+      <link>https://www.cnbc.com/2021/11/23/dicks-sporting-goods-dks-q3-2021-earnings.html</link>
+      <guid isPermaLink="false">106978694</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107000576</metadata:id>
+      <metadata:id>106978694</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>&apos;Green&apos; fuels will cost the consumer — but we need to think long term, Maersk CEO says</title>
-      <description><![CDATA[Shipping is not unique in attempting to find more sustainable ways of powering operations.]]></description>
-      <pubDate>Thu, 13 Jan 2022 15:28:47 GMT</pubDate>
+      <title>Dick&apos;s Sporting Goods shares fall despite earnings beat and hiked outlook</title>
+      <description><![CDATA[Dick's Sporting Goods on Tuesday reported fiscal third-quarter earnings and sales that outpaced analysts' expectations. ]]></description>
+      <pubDate>Tue, 23 Nov 2021 21:08:56 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/13/omicron-biden-deploys-military-medical-personnel-to-hospitals-in-six-states.html</link>
-      <guid isPermaLink="false">107000633</guid>
+      <link>https://www.cnbc.com/2021/11/23/best-buy-bby-q3-2022-earnings.html</link>
+      <guid isPermaLink="false">106978842</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107000633</metadata:id>
+      <metadata:id>106978842</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Biden deploys military medical teams to hospitals in six states as omicron disrupts essential services</title>
-      <description><![CDATA[The federal government will deploy six teams of military medical personnel to hospitals in New York, New Jersey, Ohio, Rhode Island, Michigan and New Mexico.]]></description>
-      <pubDate>Thu, 13 Jan 2022 18:19:35 GMT</pubDate>
+      <title>Best Buy earnings top estimates but retailer&apos;s stock tumbles amid weakening demand, shipping bottlenecks</title>
+      <description><![CDATA[Best Buy's fourth quarter could be hurt by rising shipping costs and weaker demand for consumer electronics.]]></description>
+      <pubDate>Tue, 23 Nov 2021 21:04:54 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/13/delta-ceo-says-8000-employees-have-tested-positive-for-covid-in-last-4-weeks.html</link>
-      <guid isPermaLink="false">107000583</guid>
+      <link>https://www.cnbc.com/2021/11/22/zoom-zm-earnings-q3-2022.html</link>
+      <guid isPermaLink="false">106978797</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107000583</metadata:id>
+      <metadata:id>106978797</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Delta CEO says 8,000 employees have tested positive for Covid in last 4 weeks</title>
-      <description><![CDATA[Delta's CEO says the operation has since stabilized.]]></description>
-      <pubDate>Thu, 13 Jan 2022 17:21:14 GMT</pubDate>
+      <title>Zoom beats estimates even as revenue growth is poised to slow after pandemic</title>
+      <description><![CDATA[Zoom indicated that revenue growth will slow to 19% in the current quarter, compared with over 300% growth last year following the onset of the coronavirus.]]></description>
+      <pubDate>Tue, 23 Nov 2021 02:57:59 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/13/databricks-launches-lakehouse-for-retail-as-ceo-focuses-on-growth.html</link>
-      <guid isPermaLink="false">107000226</guid>
+      <link>https://www.cnbc.com/2021/11/18/kohls-kss-q3-2021-earnings-.html</link>
+      <guid isPermaLink="false">106977300</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107000226</metadata:id>
+      <metadata:id>106977300</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Databricks CEO dismisses cloud sell-off, says growth rates will determine valuations</title>
-      <description><![CDATA[Databricks, valued last year at $38 billion, is now focusing on industries such as retail, and its CEO isn't worried about a cloud sell-off in recent weeks.]]></description>
-      <pubDate>Thu, 13 Jan 2022 14:00:01 GMT</pubDate>
+      <title>Kohl&apos;s shares jump after retailer reports 16% sales increase as shoppers buy clothes and makeup</title>
+      <description><![CDATA[The department store chain also raised its forecast for the year. ]]></description>
+      <pubDate>Thu, 18 Nov 2021 21:06:39 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/13/virgin-galactic-stock-falls-after-plans-to-raise-500-million-in-debt.html</link>
-      <guid isPermaLink="false">107000595</guid>
+      <link>https://www.cnbc.com/2021/11/18/macys-m-q3-2021-earnings.html</link>
+      <guid isPermaLink="false">106974790</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107000595</metadata:id>
+      <metadata:id>106974790</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Virgin Galactic stock falls after announcing plans to add up to $500 million in debt</title>
-      <description><![CDATA[Shares of Virgin Galactic fell in trading on Thursday after the space tourism company announced plans to raise up to $500 million in debt.]]></description>
-      <pubDate>Thu, 13 Jan 2022 16:53:36 GMT</pubDate>
+      <title>Macy&apos;s shares surge on upbeat earnings, decision to hire AlixPartners to review business</title>
+      <description><![CDATA[Macy's reported third-quarter earnings and sales that topped analysts' expectations, leading the department store chain to raise its full-year forecast. ]]></description>
+      <pubDate>Thu, 18 Nov 2021 21:05:26 GMT</pubDate>
     </item>
   </channel>
 </rss>
