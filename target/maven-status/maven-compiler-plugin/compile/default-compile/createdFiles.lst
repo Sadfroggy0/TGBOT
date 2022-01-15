@@ -1,3 +1,4 @@
+application\Application$1.class
 messageHandler\MessageHandler.class
 mailing\Mailing.class
 messageHandler\Keyboard.class
@@ -5,6 +6,5 @@ rssParser\News.class
 application\Bot.class
 dbHandler\DBController.class
 rssParser\RssParser.class
-application\App$1.class
+application\Application.class
 rssParser\CNBCxmlHandler.class
-application\App.class
