@@ -15,7 +15,7 @@ import java.util.Timer;
 import java.util.TimerTask;
 import javafx.application.Application;
 
-public class App extends javafx.application.Application {
+public class App extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception {
         Timer timer = new Timer();
