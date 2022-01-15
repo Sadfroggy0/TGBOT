@@ -1,6 +1,7 @@
 package application;
 
 import dbHandler.DBController;
+import javafx.stage.Stage;
 import mailing.Mailing;
 import messageHandler.MessageHandler;
 import org.apache.log4j.BasicConfigurator;
@@ -12,10 +13,12 @@ import rssParser.RssParser;
 
 import java.util.Timer;
 import java.util.TimerTask;
+import javafx.application.Application;
 
+public class App extends javafx.application.Application {
 
-public class Application {
-    public static void main(String[] args) {
+    @Override
+    public void start(Stage primaryStage) throws Exception {
         Timer timer = new Timer();
         timer.schedule(new TimerTask() {
             @Override

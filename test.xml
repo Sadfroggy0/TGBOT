@@ -1,68 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:metadata="http://search.cnbc.com/rss/2.0/modules/siteContentMetadata" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <atom:link rel="self" type="application/rss+xml" href="https://www.cnbc.com/id/10000664/device/rss/rss.html"/>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.cnbc.com/id/10001147/device/rss/rss.html"/>
     <language>en-us</language>
     <ttl>60</ttl>
-    <title>Finance</title>
+    <title>Business News</title>
     <feed_asset>
-      <id>10000664</id>
+      <id>10001147</id>
       <type>franchise</type>
       <subtype>section</subtype>
-      <seo>https://www.cnbc.com/finance/</seo>
+      <seo>https://www.cnbc.com/business/</seo>
     </feed_asset>
-    <lastBuildDate>Fri, 14 Jan 2022 20:38 GMT</lastBuildDate>
-    <pubDate>Fri, 14 Jan 2022 20:38 GMT</pubDate>
-    <link>https://www.cnbc.com/finance/</link>
-    <description><![CDATA[Latest investing news and finance headlines straight from Wall Street.]]></description>
+    <lastBuildDate>Sat, 15 Jan 2022 00:39 GMT</lastBuildDate>
+    <pubDate>Sat, 15 Jan 2022 00:39 GMT</pubDate>
+    <link>https://www.cnbc.com/business/</link>
+    <description><![CDATA[Latest headlines for business news around the world. ]]></description>
     <item>
-      <link>https://www.cnbc.com/2022/01/14/banks-like-jpmorgan-are-finding-out-that-inflation-is-a-double-edged-sword-.html</link>
-      <guid isPermaLink="false">107001638</guid>
+      <link>https://www.cnbc.com/2022/01/14/a-new-labor-battle-opens-on-broadway-as-omicron-closes-shows.html</link>
+      <guid isPermaLink="false">107001735</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107001638</metadata:id>
+      <metadata:id>107001735</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Wage inflation has arrived in a big way and Jamie Dimon says CEOs &apos;shouldn&apos;t be crybabies about it&apos;</title>
-      <description><![CDATA[There is the risk that runaway inflation could actually wipe out the finance industry's gains from higher interest rates, according to JPMorgan's CFO. ]]></description>
-      <pubDate>Sat, 15 Jan 2022 01:37:14 GMT</pubDate>
+      <title>A new labor battle opens on Broadway as omicron closes theater shows</title>
+      <description><![CDATA[Broadway producer Keven McCollum closed 'Mrs. Doubtfire' with a plan to return in the spring, he says, to save the show, but theater unions are skeptical.]]></description>
+      <pubDate>Sat, 15 Jan 2022 01:42:40 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/14/stocks-making-the-biggest-moves-midday-jpmorgan-wynn-resorts-and-more.html</link>
-      <guid isPermaLink="false">107001525</guid>
+      <link>https://www.cnbc.com/2022/01/14/labor-department-vows-to-protect-workers-from-covid-after-mandate-blocked.html</link>
+      <guid isPermaLink="false">107001509</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107001525</metadata:id>
+      <metadata:id>107001509</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Stocks making the biggest moves midday: JPMorgan, Wynn Resorts, Sherwin-Williams, Disney and more</title>
-      <description><![CDATA[These are the stocks posting the largest moves in midday trading. ]]></description>
-      <pubDate>Fri, 14 Jan 2022 21:04:12 GMT</pubDate>
+      <title>Labor Department vows to protect workers from Covid after Supreme Court blocks business vaccine mandate</title>
+      <description><![CDATA[Unions are calling for the Labor Department to implement improved ventilation, physical distancing and masking in workplaces.]]></description>
+      <pubDate>Fri, 14 Jan 2022 21:43:53 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/14/stocks-making-the-biggest-moves-premarket-blackrock-wells-fargo-sherwin-williams.html</link>
-      <guid isPermaLink="false">107001406</guid>
+      <link>https://www.cnbc.com/2022/01/14/thieves-find-new-source-for-stolen-goods-delivery-trucks-and-trains-.html</link>
+      <guid isPermaLink="false">107001637</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107001406</metadata:id>
+      <metadata:id>107001637</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Stocks making the biggest moves premarket: BlackRock, Wells Fargo, Sherwin-Williams</title>
-      <description><![CDATA[These are the stocks posting the largest moves before the bell.]]></description>
-      <pubDate>Fri, 14 Jan 2022 12:49:34 GMT</pubDate>
+      <title>Thieves target another source for stolen goods: Delivery trucks and trains full of packages</title>
+      <description><![CDATA[Major retailers, including Target and Best Buy, have spoken out about organized thefts and urged Congress to make it harder for criminals to sell stolen goods.]]></description>
+      <pubDate>Sat, 15 Jan 2022 01:13:27 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/14/wells-fargo-wfc-earnings-q4-2021.html</link>
-      <guid isPermaLink="false">107000917</guid>
+      <link>https://www.cnbc.com/2022/01/14/new-york-covid-numbers-are-finally-trending-down-gov-hochul-says.html</link>
+      <guid isPermaLink="false">107001681</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107000917</metadata:id>
+      <metadata:id>107001681</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Wells Fargo&apos;s fourth-quarter revenue tops estimate, profit jumps</title>
-      <description><![CDATA[The fourth biggest U.S. bank by assets posted quarterly revenue that exceeded analysts' expectations. ]]></description>
-      <pubDate>Fri, 14 Jan 2022 21:00:41 GMT</pubDate>
+      <title>New York Covid numbers are finally trending down, Gov. Hochul says</title>
+      <description><![CDATA["There will come a time when we can say it's all over," Hochul said of Covid "We're not there yet, but boy, it's on the horizon."]]></description>
+      <pubDate>Fri, 14 Jan 2022 22:51:04 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/14/jpm-earnings-4q-2021.html</link>
-      <guid isPermaLink="false">107000165</guid>
+      <link>https://www.cnbc.com/2022/01/14/ge-suspends-covid-vaccine-and-testing-rules-after-supreme-court-blocks-biden-mandate.html</link>
+      <guid isPermaLink="false">107001589</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107000165</metadata:id>
+      <metadata:id>107001589</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>JPMorgan shares fall 6% after CFO lowers guidance on &apos;headwinds’ including wage inflation</title>
-      <description><![CDATA[The bank's CFO issued guidance Friday, saying he expected "headwinds" of higher expenses and moderating Wall Street revenue to cause returns to dip. ]]></description>
-      <pubDate>Fri, 14 Jan 2022 21:02:12 GMT</pubDate>
+      <title>GE suspends Covid vaccine and testing rules after Supreme Court blocks Biden mandate</title>
+      <description><![CDATA[President Joe Biden said he would urge businesses to implement the rules voluntarily. ]]></description>
+      <pubDate>Fri, 14 Jan 2022 19:32:08 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2022/01/14/retail-industry-presses-ahead-with-conference-tries-to-nudge-normalcy.html</link>
+      <guid isPermaLink="false">107001405</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>107001405</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Retail industry presses ahead with conference, tries to nudge Americans toward normalcy </title>
+      <description><![CDATA[The National Retail Federation said it will take extra precautions, including handing out N95 masks and at-home Covid tests.]]></description>
+      <pubDate>Sat, 15 Jan 2022 01:43:42 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2022/01/14/russia-ukraine-talks-how-us-economic-sanctions-work.html</link>
+      <guid isPermaLink="false">107000677</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>107000677</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>The U.S. hopes the threat of harsh sanctions deters a Russian invasion of Ukraine—Here&apos;s how they work</title>
+      <description><![CDATA[Russia is amassing troops on its border with Ukraine. The U.S. and its allies plan to use economic sanctions to deter an invasion. Here's how they work.]]></description>
+      <pubDate>Fri, 14 Jan 2022 18:30:35 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2022/01/14/biden-administration-threatens-to-claw-back-covid-funds-from-arizona-over-school-anti-mask-policies.html</link>
+      <guid isPermaLink="false">107001548</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>107001548</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Biden administration threatens to claw back Covid funds from Arizona over school anti-mask policies</title>
+      <description><![CDATA[GOP Gov. Doug Ducey has 60 days to change the disputed programs or the Biden administration may take back that Covid stimulus money, Treasury said.]]></description>
+      <pubDate>Fri, 14 Jan 2022 20:12:26 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2022/01/14/united-brings-back-airport-vaccines-for-employee-boosters-as-omicron-spreads.html</link>
+      <guid isPermaLink="false">107000916</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>107000916</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>United brings back airport vaccines for employee boosters as omicron spreads</title>
+      <description><![CDATA[United has started offering staff vaccines in airports again as the omicron wave sweeps through crews.]]></description>
+      <pubDate>Fri, 14 Jan 2022 16:21:12 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2022/01/14/bill-ford-is-doubling-down-on-ford-shares-and-amassing-more-control-of-the-company.html</link>
+      <guid isPermaLink="false">106988619</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106988619</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Bill Ford is doubling down on Ford shares, and quietly amassing more control of his great-grandfather&apos;s company in the process</title>
+      <description><![CDATA[The decision to purchase the shares bucks a recent trend by CEOs and corporate insiders who sold a record $69 billion in stock in 2021.]]></description>
+      <pubDate>Fri, 14 Jan 2022 14:50:38 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2022/01/14/one-of-worlds-biggest-offshore-wind-farms-gears-up-for-full-operation.html</link>
+      <guid isPermaLink="false">107001410</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>107001410</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>One of the world&apos;s biggest offshore wind farms gears up for full operations</title>
+      <description><![CDATA[The North Sea, where Triton Knoll is located, is home to a number of large-scale offshore wind facilities.]]></description>
+      <pubDate>Fri, 14 Jan 2022 16:48:00 GMT</pubDate>
     </item>
     <item>
       <link>https://www.cnbc.com/2022/01/14/heres-the-full-list-of-the-best-selling-electric-cars-in-china-for-2021.html</link>
@@ -75,54 +135,114 @@
       <pubDate>Fri, 14 Jan 2022 08:23:31 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/14/citi-to-sell-consumer-banking-operations-to-uob-in-malaysia-indonesia.html</link>
-      <guid isPermaLink="false">107001259</guid>
+      <link>https://www.cnbc.com/2022/01/14/australia-cancels-novak-djokovics-visa-for-the-second-time.html</link>
+      <guid isPermaLink="false">107001331</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107001259</metadata:id>
+      <metadata:id>107001331</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Citi to sell consumer business in Malaysia, Indonesia, Thailand and Vietnam to UOB Group</title>
-      <description><![CDATA[UOB said it will acquire Citi's unsecured and secured lending portfolios, wealth management and retail deposit units in the four Southeast Asian markets. ]]></description>
-      <pubDate>Fri, 14 Jan 2022 04:09:47 GMT</pubDate>
+      <title>Australia cancels Novak Djokovic&apos;s visa for the second time</title>
+      <description><![CDATA[Tennis star Novak Djokovic has had his visa canceled once again ahead of the Australian Open as the furor over his vaccination status intensifies.]]></description>
+      <pubDate>Fri, 14 Jan 2022 13:55:22 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/14/china-economy-december-trade-data-imports-and-exports-.html</link>
-      <guid isPermaLink="false">107001184</guid>
+      <link>https://www.cnbc.com/2022/01/14/5-things-to-know-before-the-stock-market-opens-friday-jan-14.html</link>
+      <guid isPermaLink="false">107001400</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107001184</metadata:id>
+      <metadata:id>107001400</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>China&apos;s December exports rose 20.9% from a year ago, slightly more than expected</title>
-      <description><![CDATA[China's exports grew slightly more than expected in December, while imports rose less than expected, according to customs data released on Friday.]]></description>
-      <pubDate>Fri, 14 Jan 2022 05:10:13 GMT</pubDate>
+      <title>5 things to know before the stock market opens Friday</title>
+      <description><![CDATA[U.S. stock futures accelerated to the downside Friday after Dow stock JPMorgan dropped and retail sales disappointed.]]></description>
+      <pubDate>Fri, 14 Jan 2022 14:06:08 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/13/biden-to-nominate-sarah-bloom-raskin-lisa-cook-and-philip-jefferson-to-key-fed-positions.html</link>
-      <guid isPermaLink="false">106997176</guid>
+      <link>https://www.cnbc.com/2022/01/14/india-covid-third-wave-is-expected-to-slow-near-term-economic-growth-.html</link>
+      <guid isPermaLink="false">107000403</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106997176</metadata:id>
+      <metadata:id>107000403</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Biden to nominate Sarah Bloom Raskin as vice chair for supervision at Fed; Lisa Cook and Philip Jefferson as governors</title>
-      <description><![CDATA[President Joe Biden will nominate Sarah Bloom Raskin to be the Federal Reserve's next vice chair for supervision, a powerful regulatory role.]]></description>
-      <pubDate>Sat, 15 Jan 2022 01:48:35 GMT</pubDate>
+      <title>India&apos;s third wave of Covid infections is expected to blunt growth in the near term</title>
+      <description><![CDATA[But the overall economic impact of the third wave of infections is expected to be less severe and less disruptive compared to the previous two waves. ]]></description>
+      <pubDate>Fri, 14 Jan 2022 00:56:18 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/13/stock-market-futures-open-to-close-news.html</link>
-      <guid isPermaLink="false">107000948</guid>
+      <link>https://www.cnbc.com/2022/01/14/stocks-making-the-biggest-moves-premarket-blackrock-wells-fargo-sherwin-williams.html</link>
+      <guid isPermaLink="false">107001406</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107000948</metadata:id>
+      <metadata:id>107001406</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Dow drops 200 points Friday as bank stocks get hit, market posts second losing week to start 2022</title>
-      <description><![CDATA[JPMorgan and Citigroup slid after their earnings reports, weighing on the stock market. ]]></description>
-      <pubDate>Fri, 14 Jan 2022 23:43:41 GMT</pubDate>
+      <title>Stocks making the biggest moves premarket: BlackRock, Wells Fargo, Sherwin-Williams</title>
+      <description><![CDATA[These are the stocks posting the largest moves before the bell.]]></description>
+      <pubDate>Fri, 14 Jan 2022 12:49:34 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/13/feds-harker-calls-for-action-on-inflation-sees-3-or-4-rate-hikes-this-year.html</link>
-      <guid isPermaLink="false">107001030</guid>
+      <link>https://www.cnbc.com/2022/01/14/retail-sales-december-2021.html</link>
+      <guid isPermaLink="false">107001446</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107001030</metadata:id>
+      <metadata:id>107001446</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Fed&apos;s Harker calls for &apos;action on inflation,&apos; sees 3 or 4 rate hikes likely this year</title>
-      <description><![CDATA[Philadelphia Federal Reserve President Patrick Harker said he foresees three or four interest rate hikes this year as likely to fight inflation.]]></description>
-      <pubDate>Fri, 14 Jan 2022 00:03:58 GMT</pubDate>
+      <title>Retail sales dropped 1.9% in December as higher prices caused consumers to curb spending</title>
+      <description><![CDATA[The advance monthly sales report to close out the year showed a decline of 1.9%, considerably worse than the Dow Jones estimate for just a 0.1% drop.]]></description>
+      <pubDate>Fri, 14 Jan 2022 18:18:56 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2022/01/13/supreme-court-vaccine-ruling-wont-bar-companies-from-demanding-covid-shots.html</link>
+      <guid isPermaLink="false">107000998</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>107000998</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Supreme Court vaccine mandate ruling won&apos;t bar companies from demanding Covid shots for workers — Biden vows to advocate for that</title>
+      <description><![CDATA[President Biden urged companies to voluntarily impose Covid vaccination rules on workers after the Supreme Court blocked a government order to do that.]]></description>
+      <pubDate>Fri, 14 Jan 2022 02:06:08 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2022/01/13/why-used-car-prices-are-pushing-inflation-higher.html</link>
+      <guid isPermaLink="false">107000855</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>107000855</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Soaring used car prices are pushing inflation higher, and there&apos;s not much the U.S. can do about it</title>
+      <description><![CDATA[The potential upside for President Biden is that inflation is expected to moderate organically and as the Fed looks to raise interest rates this year.]]></description>
+      <pubDate>Fri, 14 Jan 2022 02:04:23 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2022/01/13/scream-looks-to-draw-in-young-horror-fans-jumpstarting-2022-box-office-.html</link>
+      <guid isPermaLink="false">107000665</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>107000665</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>&apos;Scream&apos; looks to draw in young horror fans and jumpstart 2022 box office </title>
+      <description><![CDATA[The fifth installment of the "Scream" franchise is projected to tally between $25 million and $30 million in U.S. ticket sales this weekend, Comscore said. ]]></description>
+      <pubDate>Fri, 14 Jan 2022 19:06:24 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2022/01/13/mastercard-ceo-says-spending-trends-look-relatively-positive-in-2022-.html</link>
+      <guid isPermaLink="false">107000964</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>107000964</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Mastercard CEO says spending trends look ‘relatively positive’ so far in 2022 after strong holiday</title>
+      <description><![CDATA["We're coming with a momentum of the holiday season into the new year and trends continue to look relatively positive," Mastercard CEO Michael Miebach said.]]></description>
+      <pubDate>Thu, 13 Jan 2022 21:12:32 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2022/01/13/supreme-court-ruling-biden-covid-vaccine-mandates.html</link>
+      <guid isPermaLink="false">106998892</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106998892</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Supreme Court blocks Biden Covid vaccine mandate for businesses, allows health-care worker rule</title>
+      <description><![CDATA[The Supreme Court ruled against the Biden administration's rule for OSHA, saying it did not have the power to require vaccination for millions of Americans.]]></description>
+      <pubDate>Fri, 14 Jan 2022 01:39:24 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2022/01/13/biden-says-us-to-provide-high-quality-masks-for-free-to-americans.html</link>
+      <guid isPermaLink="false">107000706</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>107000706</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Biden says U.S. to provide high-quality masks for free to Americans</title>
+      <description><![CDATA[President Joe Biden said the White House next week will announce how it is providing high-quality masks to Americans for free.]]></description>
+      <pubDate>Thu, 13 Jan 2022 19:58:49 GMT</pubDate>
     </item>
     <item>
       <link>https://www.cnbc.com/2022/01/13/stocks-making-the-biggest-moves-midday-ford-snap-virgin-galactic-and-more.html</link>
@@ -135,184 +255,64 @@
       <pubDate>Thu, 13 Jan 2022 21:03:53 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/13/crypto-exchange-gemini-pushes-into-wealth-management-with-acquisition-of-bitria.html</link>
-      <guid isPermaLink="false">107000550</guid>
+      <link>https://www.cnbc.com/2022/01/13/fords-market-cap-tops-100-billion-for-first-time-ever.html</link>
+      <guid isPermaLink="false">107000705</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107000550</metadata:id>
+      <metadata:id>107000705</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Crypto exchange Gemini pushes into wealth management with acquisition of BITRIA</title>
-      <description><![CDATA[The rise of crypto has created the need for ways to provide wealthy investors access through familiar wealth management vehicles.]]></description>
-      <pubDate>Thu, 13 Jan 2022 14:00:17 GMT</pubDate>
+      <title>Ford&apos;s market cap tops $100 billion for first time ever</title>
+      <description><![CDATA[Ford shares were up by as much as 5.7% to $25.87, continuing a more than 20-year high for the automaker's stock price. ]]></description>
+      <pubDate>Fri, 14 Jan 2022 00:13:18 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/13/stocks-making-the-biggest-moves-premarket-delta-air-lines-moderna-virgin-orbit-and-others.html</link>
-      <guid isPermaLink="false">107000575</guid>
+      <link>https://www.cnbc.com/2022/01/13/green-fuels-more-expensive-but-need-to-think-long-term-maersk-ceo.html</link>
+      <guid isPermaLink="false">107000576</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107000575</metadata:id>
+      <metadata:id>107000576</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Stocks making the biggest moves premarket: Delta Air Lines, Moderna, Virgin Orbit and others</title>
-      <description><![CDATA[These are the stocks posting the largest moves before the bell.]]></description>
-      <pubDate>Thu, 13 Jan 2022 12:48:48 GMT</pubDate>
+      <title>&apos;Green&apos; fuels will cost the consumer — but we need to think long term, Maersk CEO says</title>
+      <description><![CDATA[Shipping is not unique in attempting to find more sustainable ways of powering operations.]]></description>
+      <pubDate>Thu, 13 Jan 2022 15:28:47 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/12/stock-market-futures-open-to-close-news.html</link>
-      <guid isPermaLink="false">107000013</guid>
+      <link>https://www.cnbc.com/2022/01/13/omicron-biden-deploys-military-medical-personnel-to-hospitals-in-six-states.html</link>
+      <guid isPermaLink="false">107000633</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107000013</metadata:id>
+      <metadata:id>107000633</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Dow falls nearly 200 points, Nasdaq snaps three-day winning streak as tech rally stumbles</title>
-      <description><![CDATA[Stocks slid on Thursday, marking the end of a three-day rally for tech shares. ]]></description>
-      <pubDate>Thu, 13 Jan 2022 21:59:35 GMT</pubDate>
+      <title>Biden deploys military medical teams to hospitals in six states as omicron disrupts essential services</title>
+      <description><![CDATA[The federal government will deploy six teams of military medical personnel to hospitals in New York, New Jersey, Ohio, Rhode Island, Michigan and New Mexico.]]></description>
+      <pubDate>Thu, 13 Jan 2022 18:19:35 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/12/higher-pay-eclipses-inflation-bite-for-some-.html</link>
-      <guid isPermaLink="false">107000221</guid>
+      <link>https://www.cnbc.com/2022/01/13/delta-ceo-says-8000-employees-have-tested-positive-for-covid-in-last-4-weeks.html</link>
+      <guid isPermaLink="false">107000583</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107000221</metadata:id>
+      <metadata:id>107000583</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Despite higher wages, inflation gave the average worker a 2.4% pay cut last year</title>
-      <description><![CDATA[Higher consumer prices in 2021 erased the raises many workers got from their employers. However, wage growth outstripped inflation for some lower earners. ]]></description>
-      <pubDate>Wed, 12 Jan 2022 19:49:07 GMT</pubDate>
+      <title>Delta CEO says 8,000 employees have tested positive for Covid in last 4 weeks</title>
+      <description><![CDATA[Delta's CEO says the operation has since stabilized.]]></description>
+      <pubDate>Thu, 13 Jan 2022 17:21:14 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/12/stocks-making-the-biggest-moves-midday-doordash-biogen-t-rowe-price-crocs-and-more.html</link>
-      <guid isPermaLink="false">107000094</guid>
+      <link>https://www.cnbc.com/2022/01/13/databricks-launches-lakehouse-for-retail-as-ceo-focuses-on-growth.html</link>
+      <guid isPermaLink="false">107000226</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107000094</metadata:id>
+      <metadata:id>107000226</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Stocks making the biggest moves midday: DoorDash, Biogen, T. Rowe Price, Crocs and more</title>
-      <description><![CDATA[These are the stocks posting the largest moves in midday trading. ]]></description>
-      <pubDate>Wed, 12 Jan 2022 21:06:10 GMT</pubDate>
+      <title>Databricks CEO dismisses cloud sell-off, says growth rates will determine valuations</title>
+      <description><![CDATA[Databricks, valued last year at $38 billion, is now focusing on industries such as retail, and its CEO isn't worried about a cloud sell-off in recent weeks.]]></description>
+      <pubDate>Thu, 13 Jan 2022 14:00:01 GMT</pubDate>
     </item>
     <item>
-      <link>https://www.cnbc.com/2022/01/12/robinhood-says-it-will-offer-permanent-remote-working-to-most-employees.html</link>
-      <guid isPermaLink="false">107000058</guid>
+      <link>https://www.cnbc.com/2022/01/13/virgin-galactic-stock-falls-after-plans-to-raise-500-million-in-debt.html</link>
+      <guid isPermaLink="false">107000595</guid>
       <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107000058</metadata:id>
+      <metadata:id>107000595</metadata:id>
       <metadata:sponsored>false</metadata:sponsored>
-      <title>Robinhood says it will offer permanent remote working to most employees</title>
-      <description><![CDATA[Robinhood is headquartered in Melo Park, California; however, for a large segment of Robinhood employees there will be no location or in-office requirement. ]]></description>
-      <pubDate>Wed, 12 Jan 2022 21:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2022/01/12/stocks-making-the-biggest-moves-premarket-doordash-didi-philips-and-others-.html</link>
-      <guid isPermaLink="false">107000014</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>107000014</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>Stocks making the biggest moves premarket: DoorDash, Didi, Philips and others </title>
-      <description><![CDATA[These are the stocks posting the largest moves before the bell.]]></description>
-      <pubDate>Wed, 12 Jan 2022 12:51:27 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2022/01/12/kim-kardashian-and-floyd-mayweather-sued-over-alleged-crypto-scam.html</link>
-      <guid isPermaLink="false">106999924</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106999924</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>Kim Kardashian and Floyd Mayweather sued by investors over alleged crypto scam</title>
-      <description><![CDATA[A class action lawsuit accuses Kim Kardashian and Floyd Mayweather of artificially inflating the price of the cryptocurrency EthereumMax.]]></description>
-      <pubDate>Thu, 13 Jan 2022 05:07:41 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2022/01/12/ubs-says-the-fed-is-behind-the-curve-in-shrinking-the-balance-sheet.html</link>
-      <guid isPermaLink="false">106999895</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106999895</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>UBS says the Fed is likely behind the curve in shrinking its balance sheet</title>
-      <description><![CDATA[Fed Chairman Jerome Powell said Tuesday that he expects a series of interest rate hikes this year. ]]></description>
-      <pubDate>Wed, 12 Jan 2022 07:08:04 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2022/01/12/china-economy-goldman-cuts-china-gdp-for-2022-amid-lockdowns-omicron.html</link>
-      <guid isPermaLink="false">106999853</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106999853</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>Goldman cuts China GDP target for 2022 — and exports aren&apos;t the problem</title>
-      <description><![CDATA[Goldman Sachs cut its 2022 forecast for China's economic growth Tuesday in expectation of increased restrictions on business activity to contain omicron.]]></description>
-      <pubDate>Wed, 12 Jan 2022 05:12:12 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2022/01/11/stock-market-futures-open-to-close-news.html</link>
-      <guid isPermaLink="false">106999674</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106999674</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>Stocks rise, Nasdaq gains for third straight day despite red-hot inflation report</title>
-      <description><![CDATA[Wall Street shook off the highest consumer price index increase in nearly 40 years on Wednesday. ]]></description>
-      <pubDate>Wed, 12 Jan 2022 22:25:31 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2022/01/11/powell-says-rate-hikes-tighter-policy-will-be-needed-to-control-inflation.html</link>
-      <guid isPermaLink="false">106999500</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106999500</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>Fed Chair Powell says rate hikes, tighter policy will be needed to control inflation</title>
-      <description><![CDATA[Federal Reserve Chairman Jerome Powell declared Tuesday that the economy is both healthy enough and in need of tighter monetary policy.]]></description>
-      <pubDate>Tue, 11 Jan 2022 23:24:11 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2022/01/11/stocks-making-the-biggest-moves-midday-general-electric-rivian-illumina-and-more.html</link>
-      <guid isPermaLink="false">106999578</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106999578</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>Stocks making the biggest moves midday: General Electric, Rivian, Illumina and more</title>
-      <description><![CDATA[These are the stocks posting the largest moves in midday trading. ]]></description>
-      <pubDate>Tue, 11 Jan 2022 17:45:48 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2022/01/11/heres-how-to-make-sure-a-covid-test-you-buy-online-isnt-fake.html</link>
-      <guid isPermaLink="false">106996608</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106996608</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>Worried a Covid test you buy online might be fake? Here are 3 ways to protect yourself</title>
-      <description><![CDATA[The Federal Trade Commission outlined ways consumers can protect themselves as scammers take advantage of high demand for at-home rapid tests. ]]></description>
-      <pubDate>Tue, 11 Jan 2022 15:21:46 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2022/01/11/watch-fed-chair-jerome-powell-testify-live-at-his-senate-confirmation-hearing.html</link>
-      <guid isPermaLink="false">106999484</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106999484</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>Watch Fed Chair Jerome Powell testify live at his Senate confirmation hearing</title>
-      <description><![CDATA[Federal Reserve Chairman Jerome Powell testifies Tuesday before the Senate Banking Committee as part of his confirmation process.]]></description>
-      <pubDate>Tue, 11 Jan 2022 15:47:38 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2022/01/11/fintech-start-up-mx-names-new-ceo-as-firm-prepares-for-sale-or-ipo.html</link>
-      <guid isPermaLink="false">106999476</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106999476</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>Fintech start-up MX names new CEO as firm prepares for sale or IPO</title>
-      <description><![CDATA[MX is one of a handful of infrastructure companies that have helped facilitate the growth of the fintech ecosystem in recent years.]]></description>
-      <pubDate>Tue, 11 Jan 2022 16:38:55 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2022/01/11/stocks-making-the-biggest-moves-in-the-premarket-illumina-rivian-juniper-networks-and-more.html</link>
-      <guid isPermaLink="false">106999422</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106999422</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>Stocks making the biggest moves in the premarket: Illumina, Rivian, Juniper Networks and more</title>
-      <description><![CDATA[The stocks making the biggest moves in premarket trading include Illumina, Rivian, Juniper Networks, and more.]]></description>
-      <pubDate>Tue, 11 Jan 2022 13:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <link>https://www.cnbc.com/2022/01/11/shimao-says-its-in-talks-for-property-sales-to-help-with-debt-problems.html</link>
-      <guid isPermaLink="false">106999294</guid>
-      <metadata:type>cnbcnewsstory</metadata:type>
-      <metadata:id>106999294</metadata:id>
-      <metadata:sponsored>false</metadata:sponsored>
-      <title>Shimao pushes back on media reports, says it&apos;s in talks for property sales to help resolve debt crisis</title>
-      <description><![CDATA[Chinese real estate developer Shimao Group Holdings pushed back Tuesday on reports of default and sales of prime property.]]></description>
-      <pubDate>Tue, 11 Jan 2022 03:05:26 GMT</pubDate>
+      <title>Virgin Galactic stock falls after announcing plans to add up to $500 million in debt</title>
+      <description><![CDATA[Shares of Virgin Galactic fell in trading on Thursday after the space tourism company announced plans to raise up to $500 million in debt.]]></description>
+      <pubDate>Thu, 13 Jan 2022 16:53:36 GMT</pubDate>
     </item>
   </channel>
 </rss>
