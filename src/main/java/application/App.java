@@ -13,7 +13,8 @@ import rssParser.RssParser;
 
 import java.util.Timer;
 import java.util.TimerTask;
-import javafx.application.Application;
+import javafx.application.*;
+import javafx.stage.*;
 
 public class App extends Application {
     @Override
